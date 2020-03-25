@@ -10,6 +10,7 @@
 * 权限（Permission）
 * 操作（Action）
 * 资源（Resource）
+* 视图（View）
 
 ## 2. RBAC的ER模型图
 
