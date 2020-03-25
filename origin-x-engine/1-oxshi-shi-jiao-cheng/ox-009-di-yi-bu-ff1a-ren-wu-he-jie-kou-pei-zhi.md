@@ -78,11 +78,26 @@
 | outScript | OUT_SCRIPT | JS脚本内容 | **保留** |
 | channelType | CHANNEL_TYPE | 通道类型 | 四个值：ADAPTOR, CONNECTOR, ACTOR, DIRECTOR |
 | channelComponent | CHANNEL_COMPONENT | 通道组件 | Java类名 |
+| channelConfig | CHANNEL_CONFIG | 通道配置 | Json配置格式 |
+| configIntegration | CONFIG_INTEGRATION | 集成配置 | 对应集成结构Integration |
+| configDatabase | CONFIG_DATABASE | 数据库配置 | 对应数据库结构Database |
+| dictConfig | DICT_CONFIG | 字典配置 | Json配置格式 |
+| dictComponent | DICT_COMPONENT | 字典组件 | Java类名 |
+| dictEpsilon | DICT_EPSILON | 字典消费定义 | Json配置格式 |
+| mappingConfig | MAPPING_CONFIG | 映射配置 | Json配置格式 |
+| mappingMode | MAPPING_MODE | 映射模式 | 四个值：BEFORE, AFTER, AROUND, NONE |
+| mappingComponent | MAPPING_COMPONENT | 映射组件 | Java类名 |
+| serviceRecord | SERVICE_RECORD | 服务记录类型 | Java类名，Record接口 |
+| serviceComponent | SERVICE_COMPONENT | 服务组件定义 | Java类名，**开发重点** |
+| serviceConfig | SERVICE_CONFIG | 服务配置 | Json配置格式，对应 options |
+| identifier | IDENTIFIER | 模型标识 | 配置的建模中的模型标识 |
+| identifierComponent | IDENTIFIER_COMPONENT | 标识选择器 | Java类名 |
 
 
-## 2. 接口配置
+## 2. 配置步骤
 
 本文只介绍接口本身的配置，不介绍接口中的权限配置，接口中的权限配置参考：[OS-001 - 接口权限配置](/origin-x-engine/quan-xian-jiao-cheng/os-001-jie-kou-quan-xian-pei-zhi.html)
 
+### 2.1.
 
 
