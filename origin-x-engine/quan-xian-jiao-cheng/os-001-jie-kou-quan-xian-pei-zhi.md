@@ -1,6 +1,7 @@
 # 接口权限配置
 
 >  所有表结构解析中不包含 zero extension 扩展模块中的系统型字段，主要是：`sigma, active, language, metadata, createdAt, createdBy, updatedAt, updatedBy`八个系统型字段。
+> 所有的配置导入都在`ox-driver/ix-atlantic`项目中执行（主程序）
 
 本文介绍以下几个内容：
 
@@ -65,6 +66,11 @@
 
 ## 3. 配置步骤
 
+```shell
+# 安装UUID生成工具，主键生成使用该配置
+npm install -g uuid
+```
+
 ### 3.1. 创建配置文件
 
 1. 收集访问接口的账号和密码（`S_USER`中的`USERNAME`和`PASSWORD`字段）。
@@ -78,14 +84,8 @@
     ```    
 1. 在查询结果中可查询到账号对应的角色ID如：653c2705-5b37-4e66-8085-fc69d076e301
 2. 在`src/main/resources/init/oob/`中创建新的API所需`Excel`文件（可参考目前的`xxx-api.xlsx`类型的），文件名尽可能使用可识别的文件前缀，方便单独导入。
- 
-### 3.2. 创建权限文件
 
-1. 确认电脑上安装了`node 13.x`环境（前端基本环境）。
-2. 执行`npm install -g uuid`安装UUID的生成工具。
-3. 整个创建流程中，只有角色的`KEY`使用上述步骤查询到的，其他所有的主键`KEY`都使用工具生成新的。
-
-### 3.3. 填充规则注意
+### 3.2. 配置规则注意
 
 1. `S_PERM，S_ACTION，S_RESOURCE`遵循统一命名规范编码，编码在系统中不可重复
     1. 权限：`perm.xxx`
@@ -96,8 +96,9 @@
 4. 几个关联关系一定不可以出错
     1. `R_ROLE_PERM`：角色和权限的关联
     2. `S_ACTION`：权限/资源/操作三者之间通过操作进行关联
+5. 注意所有表中的`sigma, active, language`都不要填错，参考已有配置
 
-### 3.4. 导入配置
+### 3.3. 导入配置
 
 1. 停止容器
 2. 修改 `OxDevelop`代码如下，首参不变，第二参使用您创建的文件前缀：
