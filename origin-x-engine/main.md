@@ -31,7 +31,7 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 * [OM-001 数据库列类型](/origin-x-engine/2-oxjian-mo-jiao-cheng/om-001-shu-ju-ku-lie-lei-xing.html)
 * [OM-002 表单录入基本参考](/origin-x-engine/2-oxjian-mo-jiao-cheng/om-002-biao-dan-lu-ru-ji-ben-can-kao.html)
 
-## 权限配置
+## 权限教程
 
 ## 核心原理
 
