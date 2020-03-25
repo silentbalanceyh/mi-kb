@@ -14,5 +14,5 @@
 
 任务架构主要来自于`zero`框架本身，参考下图查看任务执行流程：
 
-![](/assets/images/ox/008-2.png)
+![](/assets/images/ox/008-3.png)
 
