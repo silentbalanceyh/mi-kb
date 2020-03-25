@@ -1,0 +1,4 @@
+FROM fellah/gitbook:latest
+
+ENV BOOK_DIR /srv/gitbook
+ENV BOOK_HTML /srv/html
