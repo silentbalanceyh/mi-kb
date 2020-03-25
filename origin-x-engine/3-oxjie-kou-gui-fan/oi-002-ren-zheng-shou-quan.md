@@ -25,8 +25,8 @@ HTTP方法：`POST`
 
 ```json
 {
-    "username":"lang.yu",
-    "password":"E559D4DA17DD1C17BE86FCF49E60E322"
+    "username":"（账号）",
+    "password":"（MD5加密过的密码）"
 }
 ```
 
@@ -40,9 +40,9 @@ HTTP方法：`POST`
 ```json
 {
     "data": {
-        "key": "9744ae98-eac1-4825-b558-3e53c78940da",
-        "scope": "vie.app.ox",
-        "clientSecret": "Kfeu0f9YqP8QPJDlVKyEhWXqmMLIce5N9ShIBruYFTZ1dwb7",
+        "key": "返回的用户主键",
+        "scope": "应用名称",
+        "clientSecret": "用户专用密钥",
         "grantType": "authorization_code"
     }
 }
@@ -67,8 +67,8 @@ HTTP方法：`POST`
 
 ```json
 {
-    "client_id":"9744ae98-eac1-4825-b558-3e53c78940da",
-    "client_secret":"Kfeu0f9YqP8QPJDlVKyEhWXqmMLIce5N9ShIBruYFTZ1dwb7",
+    "client_id":"用户主键",
+    "client_secret":"创建账号时生成的64位随机字符串，盐",
     "response_type":"...（保留）",
     "scope":"vie.app.ox"
 }
