@@ -33,8 +33,8 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 
 ## 权限教程
 
-* [OS-002 - RBAC模型](/origin-x-engine/quan-xian-jiao-cheng/os-002-rbacmo-xing.md)
-* [OS-001 - 接口权限配置](/origin-x-engine/quan-xian-jiao-cheng/os-001-jie-kou-quan-xian-pei-zhi.md)
+* [OS-002 - RBAC模型](/origin-x-engine/quan-xian-jiao-cheng/os-002-rbacmo-xing.html)
+* [OS-001 - 接口权限配置](/origin-x-engine/quan-xian-jiao-cheng/os-001-jie-kou-quan-xian-pei-zhi.html)
 
 ## 核心原理
 
