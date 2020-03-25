@@ -17,7 +17,7 @@
 
 | 字段名 | 列名 | 含义 | 值格式 |
 | :--- | :--- | :--- | :--- |
-| key | KEY | 权限主键 | 新生成UUID，权限主键 |
+| key | KEY | 权限主键 | 新生成UUID |
 | name | NAME | 权限名称 | 中文名称 |
 | comment | COMMENT | 权限备注 | 权限的描述信息 |
 | code | CODE | 权限编码 | 以`perm`开头带`.`的权限编码 |
@@ -39,7 +39,7 @@
 
 | 字段名 | 列名 | 含义 | 值格式 |
 | :--- | :--- | :--- | :--- |
-| key | KEY | 资源主键 | 新生成UUID，资源主键 |
+| key | KEY | 资源主键 | 新生成UUID |
 | name | NAME | 资源名称 | 中文格式 |
 | code | CODE | 资源编码 | 以`res`开头带`.`的资源编码 |
 | level | LEVEL | 资源级别 | 资源对Action要求的级别（整数）|
@@ -53,7 +53,7 @@
 
 | 字段名 | 列名 | 含义 | 值格式 |
 | :--- | :--- | :--- | :--- |
-| key | KEY | 操作主键 | 新生成UUID，操作主键 |
+| key | KEY | 操作主键 | 新生成UUID |
 | uri | URI | URI地址 | URI路径全地址，从`/api/`开始 |
 | method | METHOD | HTTP方法 | 四个值：GET / POST / PUT / DELETE |
 | name | NAME | 操作名称 | 中文格式 |
