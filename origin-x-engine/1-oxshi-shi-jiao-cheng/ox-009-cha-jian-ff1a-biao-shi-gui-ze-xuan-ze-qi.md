@@ -16,3 +16,11 @@
 
 ![](/assets/images/ox/008-3.png)
 
+任务通道中定制的就是`JobIncome`和`JobOutcome`组件，这两个组件执行于核心组件的前置和后置，整理起来任务执行流程如下：
+
+1. 任务先从`incomeAddress`中消费输入数据作为初始输入。
+2. 将输入数据传入到`incomeComponent`组件中执行。
+3. 运行主通道`serviceComponent`，该组件运行时，会配合**通道 + 插件**结构，包括映射管理器、标识选择器等。
+4. 执行完主通道后，数据会传入到`outcomeComponent`组件中执行。
+5. 执行完成后，最终数据会发布到`outcomeAddress`地址上。
+6. 最后会有一个`@Off`方法来执行`outcomeAddress`上的回调操作，该操作不可配置，只能通过编码方式来处理，在`Origin X`中没有使用这步操作。
