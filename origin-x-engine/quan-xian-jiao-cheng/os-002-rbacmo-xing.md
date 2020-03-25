@@ -13,7 +13,9 @@
 
 ## 2. RBAC的ER模型图
 
+![](/assets/images/ox/os-002-1.png)
 
 ## 3. 详细认证授权模型
+
 
 
