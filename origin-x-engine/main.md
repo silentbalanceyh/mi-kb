@@ -6,6 +6,7 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 | :--- | :--- |
 | 实施教程 | 面向实施人员的二次开发文档说明。 |
 | 建模教程 | 面向实施人员的建模部分专用教程。 |
+| 权限教程 | 面向实施人员的权限专用教程。 |
 | 接口规范 | 面向集成开发人员的接口专用教程。 |
 
 ## 实施教程
@@ -24,12 +25,13 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 * [OX-010 - 第二步：通道开发](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-010-di-er-bu-ff1a-tong-dao-kai-fa.html)
 * [OX-011 - 第三步：插件开发](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-011-di-san-bu-ff1a-tong-dao-ce-shi.html)
 * [OX-012 - 第四步：最终测试](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-012-di-si-bu-ff1a-zui-zhong-ce-shi.html)
-* [OX-013 - REST权限配置](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-013-jie-kou-quan-xian-pei-zhi.html)
 
 ## 建模教程
 
 * [OM-001 数据库列类型](/origin-x-engine/2-oxjian-mo-jiao-cheng/om-001-shu-ju-ku-lie-lei-xing.html)
 * [OM-002 表单录入基本参考](/origin-x-engine/2-oxjian-mo-jiao-cheng/om-002-biao-dan-lu-ru-ji-ben-can-kao.html)
+
+## 权限配置
 
 ## 核心原理
 
