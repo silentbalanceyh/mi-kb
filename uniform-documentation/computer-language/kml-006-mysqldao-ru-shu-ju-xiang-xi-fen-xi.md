@@ -22,6 +22,10 @@ create table emp(
 );
 ```
 
+数据准备：
+
+
+
 ## 1. SQL脚本如下
 
 ```sql
