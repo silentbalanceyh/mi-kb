@@ -6,6 +6,8 @@
 * MySQL 命令行
 * MySQL Server 5.x版本
 
+## 1. SQL脚本如下
+
 
 
 
