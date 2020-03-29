@@ -6,6 +6,12 @@
 * MySQL 命令行
 * MySQL Server 5.x版本
 
+## 0. 表准备
+
+```sql
+
+```
+
 ## 1. SQL脚本如下
 
 ```sql
