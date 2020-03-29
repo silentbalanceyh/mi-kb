@@ -9,7 +9,17 @@
 ## 0. 表准备
 
 ```sql
-
+create table emp(
+    empid int primary key auto_increment,
+    ename varchar(10) unique,
+    job varchar(10) not null,
+    mgr int,
+    hiredate date,
+    sal float default 0,
+    comm float,
+    deptno int,
+    foreign key(deptno) references dept(deptno)
+);
 ```
 
 ## 1. SQL脚本如下
