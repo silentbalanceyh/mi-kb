@@ -47,5 +47,10 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 * 图元件编辑器：[ExGraphicSpider](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicspider.md)
 * 拓扑图查看器：[ExGraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicviewer.md)
 
+### 4. 基本组件
+
+* 警告信息呈现组件：[LoadingAlert](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingalert.md)
+* 加载信息呈现组件：[LoadingContent](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingcontent.md)
+
 
 
