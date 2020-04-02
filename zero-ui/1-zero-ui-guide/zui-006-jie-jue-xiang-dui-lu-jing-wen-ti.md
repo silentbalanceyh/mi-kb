@@ -92,24 +92,59 @@ tsconfig.json
 ```json
         "paths": {
             "environment": [
-                "src/environment"
+                "src/environment/"
             ],
             "entity": [
-                "src/entity"
+                "src/entity/"
             ],
             "lang": [
-                "src/cab"
+                "src/cab/"
             ],
             "web": [
-                "src/economy"
+                "src/economy/"
             ],
             "ux": [
-                "src/ux"
+                "src/ux/"
             ],
             "app": [
-                "src/app"
+                "src/app/"
+            ],
+            "ex": [
+                "src/extension/library/"
+            ],
+            "ei": [
+                "src/extension/ecosystem/"
+            ],
+            "oi": [
+                "src/extension/eclat/"
+            ],
+            "editor": [
+                "src/editor/"
+            ],
+            "mock": [
+                "src/mock/"
+            ],
+            "plugin": [
+                "src/plugin/"
             ]
         }
+    },
+    "exclude": [
+        "node_modules/**/*.ts",
+        "src/**/*.js",
+        "config/**/*.js"
+    ],
+    "include": [
+        "src/economy/**/*.ts",
+        "src/economy/**/*.tsx",
+        "src/extension/**/*.ts",
+        "src/extension/**/*.tsx",
+        "src/editor/**/*.ts",
+        "src/editor/**/*.tsx",
+        "src/entity/**/*.ts",
+        "src/entity/**/*.tsx",
+        "src/c*/**/*.ts"
+    ]
 ```
 
 ## 3. 说明
