@@ -159,7 +159,7 @@ tsconfig.json
 | entity | src/entity | TypeScript定义的数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO，以及查询引擎专用的查询树：QQuery专用查询条件包。 |
 | lang | src/cab | 语言包，和Z\_LANGUAGE绑定的语言资源包，编程过程不会常用，但zero注解会使用该包中的资源文件信息，目前框架所支持：cab/cn/下的中文语言资源包。 |
 | web | src/economy | Zero UI标准交互式组件包，包含了标准的Web组件，主要包含了**表单组件**。 |
-| ux |  | Utility X工具包 |
+| ux | src/ux | Utility X工具包，核心工具包，以Ux为规约的常用函数工具包。 |
 | app |  | 应用程序专用包，Origin X中的内容就放在app包中 |
 
 Origin X中扩展了两个包出来：
