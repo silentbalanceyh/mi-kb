@@ -38,8 +38,8 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [GraphicEditor](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphiceditor.md) | g6图编辑器 |
-| [GraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphicviewer.md) | g6图查看器 |
+| [GraphicEditor](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphiceditor.html) | g6图编辑器 |
+| [GraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphicviewer.html) | g6图查看器 |
 
 ### 2. 表单
 
@@ -49,26 +49,26 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [ExGraphicMaster](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicmaster.md) | 主图编辑器（只有一张主图） |
-| [ExGraphicSpider](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicspider.md) | 图元编辑器（带一个主节点） |
-| [ExGraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicviewer.md) | 拓扑图查看器 |
+| [ExGraphicMaster](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicmaster.html) | 主图编辑器（只有一张主图） |
+| [ExGraphicSpider](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicspider.html) | 图元编辑器（带一个主节点） |
+| [ExGraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicviewer.html) | 拓扑图查看器 |
 
 #### 3.2. 表单组件
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [ExLogin](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exlogin.md) | 标准登录入口 |
-| [ExEntry](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exentry.md) | 协变登录入口 |
-| [ExRecord](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exrecord.md) | 记录查看器（查看核心记录） |
-| [ExForm](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exform.md) | 标准表单专用 |
-| [ExFormLink](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exformlink.md) | 关系管理器 |
+| [ExLogin](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exlogin.html) | 标准登录入口 |
+| [ExEntry](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exentry.html) | 协变登录入口 |
+| [ExRecord](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exrecord.html) | 记录查看器（查看核心记录） |
+| [ExForm](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exform.html) | 标准表单专用 |
+| [ExFormLink](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exformlink.html) | 关系管理器 |
 
 ### 4. 基本组件
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [LoadingAlert](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingalert.md) | 警告信息呈现组件 |
-| [LoadingContent](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingcontent.md) | 加载信息呈现组件 |
+| [LoadingAlert](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingalert.html) | 警告信息呈现组件 |
+| [LoadingContent](/zero-ui/6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingcontent.html) | 加载信息呈现组件 |
 
 
 
