@@ -54,6 +54,8 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 * 标准登录入口：[ExLogin](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exlogin.md)
 * 协变登录入口：[ExEntry](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exentry.md)
 * 记录查看，和后端配置交互：[ExRecord](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exrecord.md)
+* 标准表单信息：[ExForm](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exform.md)
+* g6关系编辑专用表单：[ExFormLink](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exformlink.md)
 
 ### 4. 基本组件
 
