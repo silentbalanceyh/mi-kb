@@ -161,6 +161,9 @@ tsconfig.json
 | web | src/economy | Zero UI标准交互式组件包，包含了标准的Web组件，主要包含了**表单组件**。 |
 | ux | src/ux | Utility X工具包，核心工具包，以Ux为规约的常用函数工具包。 |
 | app | src/app | 第三方专用组件包，用于处理第三方扩展组件（每个不同的项目有所区别）。 |
+| mock | src/mock | 模拟数据包（Ajax专用模拟数据包，开启mock = true时使用客户端数据）。 |
+| editor | src/editor | g6编辑器专用包，TypeScript书写的图编辑器工具。 |
+| plugin | src/plugin | 临时插件包，不同项目有所不同，用于处理特殊的业务逻辑专用。 |
 
 Origin X中扩展了两个包出来：
 
