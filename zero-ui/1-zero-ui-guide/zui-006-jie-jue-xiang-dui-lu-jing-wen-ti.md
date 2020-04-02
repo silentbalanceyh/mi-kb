@@ -91,7 +91,7 @@ tsconfig.json
 
 ```json
     "compilerOptions": {
-        "...":"...",
+        "...":"其他编译项配置",
         "paths": {
             "environment": [
                 "src/environment/"
