@@ -90,6 +90,7 @@ module.exports = {
 tsconfig.json
 
 ```json
+    "compilerOptions": {
         "paths": {
             "environment": [
                 "src/environment/"
