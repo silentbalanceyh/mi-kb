@@ -156,7 +156,7 @@ tsconfig.json
 | 包名 | 职责 |
 | :--- | :--- |
 | environment | 基础环境信息专用包，定义了当前系统需要使用的所有环境，react-router，redux，reducers，store，zero注解等。 |
-| entity | TypeScript定义的数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO。 |
+| entity | TypeScript定义的数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO，以及查询引擎专用的查询树：QQuery专用查询条件包。 |
 | lang | 语言包 |
 | web | Zero中的自定义组件包 |
 | ux | Utility X工具包 |
