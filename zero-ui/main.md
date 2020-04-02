@@ -34,5 +34,10 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 ## 组件使用
 
+### 1. 编辑器
+
+* g6图编辑器：[GraphicEditor](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphiceditor.md)
+* g6图查看器：[GraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphicviewer.md)
+
 
 
