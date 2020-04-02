@@ -28,7 +28,7 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 ## 解析器
 
-* [ZAI-001 表格列中的四大渲染](/zero-ui/5-zero-ui-attribute-analyzer/zai-001-biao-ge-lie-zhong-de-si-da-xuan-ran.html)
+* [ZAI-001 表格列中的四大渲染](/zero-ui/5-zero-ui-attribute-analyzer/zai-001-biao-ge-lie-zhong-de-si-da-xuan-ran.html)（Deprecated）
 * [ZAI-002 Ai智能属性解析器](/zero-ui/5-zero-ui-attribute-analyzer/zai-002-aizhi-neng-shu-xing-jie-xi-qi.html)
 * [ZAI-003 $KV$表达式处理](/zero-ui/5-zero-ui-attribute-analyzer/zai-003-kvbiao-da-shi-chu-li.html)
 
