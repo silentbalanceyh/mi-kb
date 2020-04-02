@@ -61,23 +61,27 @@ config/modules.js
 ```js
 const path = require("path");
 module.exports = {
-    // 核心模块导入机制
     // Environment包：统一环境包
     environment: path.resolve(__dirname, "../src", "environment"),
     // Entity包：模型包
     entity: path.resolve(__dirname, "../src", "entity"),
     // Language：资源包
     lang: path.resolve(__dirname, "../src", "cab"),
-    // ----------------------------组件包----------------------------
     // Control
     web: path.resolve(__dirname, "../src", "economy"),
-    // ----------------------------组件包----------------------------
     // 新的Hotel组件包
     app: path.resolve(__dirname, "../src", "app"),
     // 新统一工具包
     ux: path.resolve(__dirname, "../src", "ux"),
     // Fix moment issu
-    moment$: "moment/moment.js"
+    moment$: "moment/moment.js",
+    // Zero Extension
+    ex: path.resolve(__dirname, "../src", "extension/library"),     // Ex 库
+    ei: path.resolve(__dirname, "../src", "extension/ecosystem"),   // Ex 专用组件
+    oi: path.resolve(__dirname, "../src", "extension/eclat"),       // Ox 专用组件
+    mock: path.resolve(__dirname, "../src", "mock"),                // Mock 专用数据
+    editor: path.resolve(__dirname, "../src", "editor"),            //
+    plugin: path.resolve(__dirname, "../src", "plugin"),            // 插件
 };
 ```
 
@@ -86,47 +90,83 @@ module.exports = {
 tsconfig.json
 
 ```json
+    "compilerOptions": {
+        "...":"其他编译项配置",
         "paths": {
             "environment": [
-                "src/environment"
+                "src/environment/"
             ],
             "entity": [
-                "src/entity"
+                "src/entity/"
             ],
             "lang": [
-                "src/cab"
+                "src/cab/"
             ],
             "web": [
-                "src/economy"
+                "src/economy/"
             ],
             "ux": [
-                "src/ux"
+                "src/ux/"
             ],
             "app": [
-                "src/app"
+                "src/app/"
+            ],
+            "ex": [
+                "src/extension/library/"
+            ],
+            "ei": [
+                "src/extension/ecosystem/"
+            ],
+            "oi": [
+                "src/extension/eclat/"
+            ],
+            "editor": [
+                "src/editor/"
+            ],
+            "mock": [
+                "src/mock/"
+            ],
+            "plugin": [
+                "src/plugin/"
             ]
         }
+    },
+    "exclude": [
+        "node_modules/**/*.ts",
+        "src/**/*.js",
+        "config/**/*.js"
+    ],
+    "include": [
+        "src/economy/**/*.ts",
+        "src/economy/**/*.tsx",
+        "src/extension/**/*.ts",
+        "src/extension/**/*.tsx",
+        "src/editor/**/*.ts",
+        "src/editor/**/*.tsx",
+        "src/entity/**/*.ts",
+        "src/entity/**/*.tsx",
+        "src/c*/**/*.ts"
+    ]
 ```
 
 ## 3. 说明
 
 最后针对几个包说明一下，描述以下这些包在系统中的职责。
 
-| 包名 | 职责 |
-| :--- | :--- |
-| environment | 环境信息专用包 |
-| entity | 数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO |
-| lang | 语言包 |
-| web | Zero中的自定义组件包 |
-| ux | Utility X工具包 |
-| app | 应用程序专用包，Origin X中的内容就放在app包中 |
-
-Origin X中扩展了两个包出来：
-
-| 包名 | 职责 |
-| :--- | :--- |
-| ox.fun | Origin X中的Fn函数专用包，调用Ox专有函数。 |
-| ox.web | Origin X中的自定义组件专用包。 |
+| 包名 | 路径 | 职责 |
+| :--- | :--- | :--- |
+| environment | src/environment | 基础环境信息专用包，定义了当前系统需要使用的所有环境，react-router，redux，reducers，store，zero注解等。 |
+| entity | src/entity | TypeScript定义的数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO，以及查询引擎专用的查询树：QQuery专用查询条件包。 |
+| lang | src/cab | 语言包，和Z\_LANGUAGE绑定的语言资源包，编程过程不会常用，但zero注解会使用该包中的资源文件信息，目前框架所支持：cab/cn/下的中文语言资源包。 |
+| web | src/economy | Zero UI标准交互式组件包，包含了标准的Web组件，主要包含了**表单组件**。 |
+| ux | src/ux | Utility X工具包，核心工具包，以Ux为规约的常用函数工具包。 |
+| app | src/app | 【项目上层】第三方专用组件包，用于处理第三方扩展组件（每个不同的项目有所区别）。 |
+| mock | src/mock | 模拟数据包（Ajax专用模拟数据包，开启mock = true时使用客户端数据）。 |
+| editor | src/editor | g6编辑器专用包，TypeScript书写的图编辑器工具。 |
+| plugin | src/plugin | 【项目下层】临时插件包，不同项目有所不同，用于处理特殊的业务逻辑专用。 |
+| ex | extension/library | Zero UI Extension工具包，等价于强化版的Utility X工具。 |
+| ei | extension/ecosystem | Zero UI Extension专用组件包，包含了扩展Web组件包，包含了内聚性更强的**综合性组件**。 |
+| oi | extension/eclat | Origin X Extension配置专用组件包，主要用于连接Origin X 的配置引擎，通过配置数据渲染的**可配置组件**。 |
 
 
 
