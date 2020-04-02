@@ -155,7 +155,7 @@ tsconfig.json
 
 | 包名 | 职责 |
 | :--- | :--- |
-| environment | 环境信息专用包 |
+| environment | 基础环境信息专用包，定义了当前系统需要使用的所有环境， |
 | entity | 数据模型专用包，包含了DataObject、DataArray、DataTree、DataEvent等核心DTO |
 | lang | 语言包 |
 | web | Zero中的自定义组件包 |
