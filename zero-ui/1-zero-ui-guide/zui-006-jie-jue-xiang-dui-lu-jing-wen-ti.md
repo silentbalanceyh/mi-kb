@@ -164,13 +164,9 @@ tsconfig.json
 | mock | src/mock | 模拟数据包（Ajax专用模拟数据包，开启mock = true时使用客户端数据）。 |
 | editor | src/editor | g6编辑器专用包，TypeScript书写的图编辑器工具。 |
 | plugin | src/plugin | 【项目下层】临时插件包，不同项目有所不同，用于处理特殊的业务逻辑专用。 |
-
-Origin X中扩展了两个包出来：
-
-| 包名 | 职责 |
-| :--- | :--- |
-| ox.fun | Origin X中的Fn函数专用包，调用Ox专有函数。 |
-| ox.web | Origin X中的自定义组件专用包。 |
+| ex | extension/library | Zero UI Extension工具包，等价于强化版的Utility X工具。 |
+| ei | extension/ecosystem | Zero UI Extension专用组件包，包含了扩展Web组件包，包含了内聚性更强的**综合性组件**。 |
+| oi | extension/eclat | Origin X Extension配置专用组件包，主要用于连接Origin X 的配置引擎，通过配置数据渲染的**可配置组件**。 |
 
 
 
