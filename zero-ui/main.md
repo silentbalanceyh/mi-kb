@@ -49,7 +49,7 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [ExGraphicMaster](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicmaster.html) | 主图编辑器（只有一张主图） |
+| [ExGraphicPolloter](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicmaster.html) | 主图编辑器（只有一张主图） |
 | [ExGraphicSpider](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicspider.html) | 图元编辑器（带一个主节点） |
 | [ExGraphicViewer](/zero-ui/6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicviewer.html) | 拓扑图查看器 |
 

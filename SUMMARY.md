@@ -203,7 +203,7 @@
     * [ZVX-001 基于 auth-common 开发Vert.x自定义安全组件](zero-up/2-vertx-tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md)
 * [CDA课程笔记](uniform-documentation/cdake-cheng-bi-ji.md)
   * [Excel](uniform-documentation/cdake-cheng-bi-ji/excel.md)
-    * [CE-001 Excel中的数据类型](uniform-documentation/cdake-cheng-bi-ji/excel/ce001-excelzhong-de-shu-ju-lei-xing.md)
-    * [CE-002 案例：活动案例分析](uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md)
-    * [CE-003 帕累托分析](uniform-documentation/cdake-cheng-bi-ji/excel/ce-003-hui-zhi-pa-lei-tuo-fen-xi-tu.md)
+  * [MySql](uniform-documentation/cdake-cheng-bi-ji/mysql.md)
+  * [Power BI](uniform-documentation/cdake-cheng-bi-ji/power-bi.md)
+    * [P001 - Calculate函数](uniform-documentation/cdake-cheng-bi-ji/power-bi/p001-calculatehan-shu.md)
 
