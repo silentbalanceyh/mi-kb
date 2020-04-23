@@ -275,8 +275,8 @@ lower_case_table_names = 2
 4. 初始化完成后，直接运行 3.3. 步骤中配置的 `OxEntry`，可以看到如下界面，输入`h`的帮助文档：
     ![](/assets/images/ox/002-13.png)
 1. 执行命令：
-    1. `d`执行OxLoader导入元数据
-    2. `j`生成Json建模文件：执行Excel到Json的转换
+    1. `d`执行OxLoader导入元数据。
+    2. `j`生成Json建模文件：执行Excel到Json的转换，第一次可能runtime中没有json目录，那么需要手工创建两个目录，`runtime/json/model`和`runtime/json/schema`。
 2. 使用`q`命令退出控制台，然后回到`ox-engine`主目录，重新编译一次`ox-engine`（该操作只会在建模发生变化或者第一次初始化项目的时候做，后续操作中不需要执行该操作），编译之前查看下边两个目录中是否包含了生成好的`Json建模文件`
 
     ```shell
