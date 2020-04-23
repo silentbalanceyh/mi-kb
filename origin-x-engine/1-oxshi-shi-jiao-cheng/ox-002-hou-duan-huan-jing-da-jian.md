@@ -92,7 +92,7 @@ To create a production build, use yarn build.
 ```properties
 [mysqld]
 # 解决 Many Connections 的专用配置
-max_connection=2048
+max_connections=2048
 
 # 解决 Communications link failure 专用配置
 wait_timeout=1814400
