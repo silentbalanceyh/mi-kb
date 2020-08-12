@@ -18,7 +18,7 @@ Zero文档用来讲解Zero框架的基本用法（[http://www.vertxup.cn](http:/
 
 ## 《逐陆记》附录
 
-在线地址：[https://silentbalanceyh.gitbooks.io/vert-x/content/](https://silentbalanceyh.gitbooks.io/vert-x/content/)
+在线地址：[https://lang-yu.gitbook.io/vert-x/](https://lang-yu.gitbook.io/vert-x/)
 
 《逐陆记》中记录了使用`vert.x`过程中的一些心得，以及`vert.x`的系列开发教程，这里提供《逐陆记》后记部分的内容：
 
