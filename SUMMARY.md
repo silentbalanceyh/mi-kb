@@ -2,7 +2,7 @@
 
 ## 个人文档专区
 
-* [环境搭建引导](zero-up/huan-jing-da-jian-yin-dao.md)
+* [1. 环境搭建引导](zero-up/huan-jing-da-jian-yin-dao.md)
   * [1 - Docker容器环境](environment/1-dockerrong-qi-huan-jing.md)
     * [END-001 Neo4j环境](environment/1-dockerrong-qi-huan-jing/end-001-neo4jhuan-jing-chu-shi-hua.md)
     * [END-002 TiDB环境](environment/1-dockerrong-qi-huan-jing/end-002-tidbhuan-jing-chu-shi-hua.md)
