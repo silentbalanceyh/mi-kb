@@ -1,7 +1,7 @@
 # Ant Design全家桶
 
-| 主目录 | 前缀/子目录 |
-| :--- | :--- |
+| 主目录 | 前缀/子目录 | 说明 |
+| :--- | :--- | :--- |
 | Ant Design | ZAT |
 | Ant Design Pro | ZAP |
 | AntV G2 | ZA2 |
