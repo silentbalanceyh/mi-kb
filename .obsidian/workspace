@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "76564aa53848ed0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c761c339dd15f14e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "specification/3-specification-origin-x/spo-007-ajaxzhong-de-cha-xun-yin-qing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86162c7816e4f89",
+    "type": "split",
+    "children": [
+      {
+        "id": "1417b4c04994770c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c979a06ac2213bf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9eedde279c265dfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e922b339de651229",
+    "type": "split",
+    "children": [
+      {
+        "id": "e62f1b727df27112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc359c03fb1ca36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "specification/3-specification-origin-x/spo-007-ajaxzhong-de-cha-xun-yin-qing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "specification/3-specification-origin-x/spo-007-ajaxzhong-de-cha-xun-yin-qing.md",
+    "environment/1-dockerrong-qi-huan-jing.md"
+  ]
+}
