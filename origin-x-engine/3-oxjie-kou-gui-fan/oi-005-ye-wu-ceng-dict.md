@@ -248,4 +248,3 @@ final DictFabric fabric = DictFabric.create(mapping)
 | 第三方 | display -&gt; value | outFrom |
 
 
-

@@ -5,12 +5,12 @@ CDA课程笔记记录，仅记录理论部分和实战案例分析部分的详�
 | 主目录 | 说明 | 文档标记 |
 | :--- | :--- | :--- |
 | Excel | Excel课程部分 | E |
+| Mysql | Mysql课程部分 | S |
+| Power BI | PowerBI课程部分 | P |
 
-## Excel部分
+## Power BI
 
-* [CE-001 Excel中的数据类型](/uniform-documentation/cdake-cheng-bi-ji/excel/ce001-excelzhong-de-shu-ju-lei-xing.md)
-* [CE-002 案例：活动案例分析](/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md)
-* [CE-003 帕累托分析](/uniform-documentation/cdake-cheng-bi-ji/excel/ce-003-hui-zhi-pa-lei-tuo-fen-xi-tu.md)
+* [P001 - Calculate函数](/uniform-documentation/cdake-cheng-bi-ji/power-bi/p001-calculatehan-shu.md)
 
 
 
