@@ -13,28 +13,28 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 
 > 由于使用了窗口启动程序，所以搭建程序环境可直接使用新版，而不是旧版，旧版会标记成旧版
 
-* [OX-001 - 项目结构说明](1.ox-delivery-guide/ox-001-project-structure.html)
+* [OX-001 - 项目结构说明](1.ox-delivery-guide/ox-001-structure-project.html)
 * [OX-002 - 环境搭建](1.ox-delivery-guide/ox-002-environment-backend.html)
-* [OX-003 - 代码结构](1.ox-delivery-guide/ox-003-dai-ma-jie-gou.html)
-* [OX-004 - 生产环境升级](1.ox-delivery-guide/ox-004-sheng-chan-huan-jing-bei-fen-ce-lve.html)（手动升级）
-* [OX-005 - 通道架构](1.ox-delivery-guide/ox-005-ren-wu-kai-fa.html)
-* [OX-006 - 核心数据结构](1.ox-delivery-guide/ox-006-jie-kou-kai-fa.html)
-* [OX-007 - Options配置](1.ox-delivery-guide/ox-007-fu-wu-ceng-yuan-li.md)
-* [OX-008 - 任务通道详解](1.ox-delivery-guide/ox-009-cha-jian-ff1a-biao-shi-gui-ze-xuan-ze-qi.html)
-* [OX-009 - 第一步：任务和接口配置](1.ox-delivery-guide/ox-009-di-yi-bu-ff1a-ren-wu-he-jie-kou-pei-zhi.html)
-* [OX-010 - 第二步：通道开发](1.ox-delivery-guide/ox-010-di-er-bu-ff1a-tong-dao-kai-fa.html)
-* [OX-011 - 第三步：插件开发](1.ox-delivery-guide/ox-011-di-san-bu-ff1a-tong-dao-ce-shi.html)
-* [OX-012 - 第四步：最终测试](1.ox-delivery-guide/ox-012-di-si-bu-ff1a-zui-zhong-ce-shi.html)
+* [OX-003 - 代码结构](1.ox-delivery-guide/ox-003-structure-code.html)
+* [OX-004 - 生产环境升级](1.ox-delivery-guide/ox-004-environment-production.html)（手动升级）
+* [OX-005 - 通道架构](1.ox-delivery-guide/ox-005-structure-channel.html)
+* [OX-006 - 核心数据结构](1.ox-delivery-guide/ox-006-structure-data.html)
+* [OX-007 - Options配置](1.ox-delivery-guide/ox-007-delivery-options.html)
+* [OX-008 - 任务通道详解](1.ox-delivery-guide/ox-009-channel-task.html)
+* [OX-009 - 第一步：任务和接口配置](1.ox-delivery-guide/ox-009-step1-configuration.html)
+* [OX-010 - 第二步：通道开发](1.ox-delivery-guide/ox-010-step2-channel.html)
+* [OX-011 - 第三步：插件开发](1.ox-delivery-guide/ox-011-step3-plugin.html)
+* [OX-012 - 第四步：最终测试](1.ox-delivery-guide/ox-012-step4-testing.html)
 
 ## 建模教程
 
-* [OM-001 数据库列类型](2.ox-modeling/om-001-shu-ju-ku-lie-lei-xing.html)
-* [OM-002 表单录入基本参考](2.ox-modeling/om-002-biao-dan-lu-ru-ji-ben-can-kao.html)
+* [OM-001 数据库列类型](2.ox-modeling/om-001-column-type.html)
+* [OM-002 表单录入基本参考](2.ox-modeling/om-002-form-field.html)
 
 ## 权限教程
 
-* [OS-002 - RBAC模型](4.ox-authorization/os-002-rbacmo-xing.html)
-* [OS-001 - 接口权限配置](4.ox-authorization/os-001-jie-kou-quan-xian-pei-zhi.html)
+* [OS-002 - RBAC模型](4.ox-authorization/os-002-rbac.html)
+* [OS-001 - 接口权限配置](4.ox-authorization/os-001-authorization.html)
 
 ## 核心原理
 

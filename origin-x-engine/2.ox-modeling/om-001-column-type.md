@@ -84,8 +84,8 @@ Java类型和模型目前支持如下：
 
 模型类型和数据库类型的清单如下：
 
-* [OM-001-1 MySQL定义](/origin-x-engine/2.ox-modeling/om-001-shu-ju-ku-lie-lei-xing/om-001-1-mysqlding-yi.html)
-* [OM-001-2 Oracle定义](/origin-x-engine/2.ox-modeling/om-001-shu-ju-ku-lie-lei-xing/om-001-2-oracleding-yi.html)
+* [OM-001-1 MySQL定义](/origin-x-engine/2.ox-modeling/om-001-database/om-001-1-mysql.html)
+* [OM-001-2 Oracle定义](/origin-x-engine/2.ox-modeling/om-001-database/om-001-2-oracle.html)
 
 
 
