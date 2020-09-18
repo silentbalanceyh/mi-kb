@@ -99,7 +99,7 @@
 
 ## 2. 配置步骤
 
-本文只介绍接口和任务本身的配置，不介绍接口中的权限配置，接口中的权限配置参考：[OS-001 - 接口权限配置](/origin-x-engine/quan-xian-jiao-cheng/os-001-jie-kou-quan-xian-pei-zhi.html)
+本文只介绍接口和任务本身的配置，不介绍接口中的权限配置，接口中的权限配置参考：[OS-001 - 接口权限配置](/origin-x-engine/4.ox-authorization/os-001-jie-kou-quan-xian-pei-zhi.html)
 
 ```shell
 # 安装UUID生成工具，主键生成使用该配置

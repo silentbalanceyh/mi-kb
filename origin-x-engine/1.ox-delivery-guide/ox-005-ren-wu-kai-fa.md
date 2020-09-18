@@ -7,7 +7,7 @@
 3. `ox-plugin`中的**插件通道**架构。
 4. 任务专用的`Income/Outcome`独立**任务通道**架构。
 
-开发人员必须理解这些通道存在的意义以及如何扩展，才能够精确选择合适的父类进行扩展开发，在真正的配置、开发、实施过程中，父类的选择是通道开发的难点，这就在于开发人员是否理解了之中的每一种数据结构的用途，核心数据结构可参考：[OX-006 - 核心数据结构](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-006-jie-kou-kai-fa.html)。
+开发人员必须理解这些通道存在的意义以及如何扩展，才能够精确选择合适的父类进行扩展开发，在真正的配置、开发、实施过程中，父类的选择是通道开发的难点，这就在于开发人员是否理解了之中的每一种数据结构的用途，核心数据结构可参考：[OX-006 - 核心数据结构](/origin-x-engine/1.ox-delivery-guide/ox-006-jie-kou-kai-fa.html)。
 
 整体的通道架构图如下：
 
@@ -66,7 +66,7 @@
 
 ## 4. 任务通道
 
-任务通道请参考：[OX-008 - 任务通道详解](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-009-cha-jian-ff1a-biao-shi-gui-ze-xuan-ze-qi.html)
+任务通道请参考：[OX-008 - 任务通道详解](/origin-x-engine/1.ox-delivery-guide/ox-009-cha-jian-ff1a-biao-shi-gui-ze-xuan-ze-qi.html)
 
 ## 5. 总结
 

@@ -2,7 +2,7 @@
 
 核心数据结构是在通道使用过程中定义的特殊DTO结构，通常为一个Java的Class文件定义。
 
-> 具体哪个抽象类包含了这些数据结构，可参考：[OX-005 - 通道架构](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-005-ren-wu-kai-fa.html)
+> 具体哪个抽象类包含了这些数据结构，可参考：[OX-005 - 通道架构](/origin-x-engine/1.ox-delivery-guide/ox-005-ren-wu-kai-fa.html)
 
 ## 1. Identity标识选择器
 
@@ -72,7 +72,7 @@
     final DualItem child = this.mapping().child("ci.database");
 ```
 
-更加详细的 mapping 配置可参考：[OI-004 业务层 Mapping](/origin-x-engine/3-oxjie-kou-gui-fan/oi-004-ye-wu-ceng-mapping-pei-zhi-shuo-ming.html)
+更加详细的 mapping 配置可参考：[OI-004 业务层 Mapping](/origin-x-engine/3.ox-interface/oi-004-ye-wu-ceng-mapping-pei-zhi-shuo-ming.html)
 
 ## 3. XHeader
 
@@ -89,7 +89,7 @@ XHeader是当前容器中的核心维度数据，它主要存储了下边的数�
 
 ## 4. DictFabric字典翻译器
 
-在旧版本中的通道中，AbstractComponent 可以拿到的是原生 `Dict` 的字典定义数据，而新版本直接读取 `DictFabric` 的字典翻译器（更简单），关于`Dict`的原理可以参考：[OI-005 业务层 Dict](/origin-x-engine/3-oxjie-kou-gui-fan/oi-005-ye-wu-ceng-dict.html)，开发人员需要清楚获取字典翻译器的核心 API（**四种字典翻译器**）。字典翻译器包含三个核心部分：
+在旧版本中的通道中，AbstractComponent 可以拿到的是原生 `Dict` 的字典定义数据，而新版本直接读取 `DictFabric` 的字典翻译器（更简单），关于`Dict`的原理可以参考：[OI-005 业务层 Dict](/origin-x-engine/3.ox-interface/oi-005-ye-wu-ceng-dict.html)，开发人员需要清楚获取字典翻译器的核心 API（**四种字典翻译器**）。字典翻译器包含三个核心部分：
 
 1. 字典数据`ConcurrentMap<String,JsonArray>`（根据定义读取的字典信息）。
 2. 字典消费定义`ConcurrentMap<String, DictEpsilon>`。
@@ -227,7 +227,7 @@ zero 标准的任务配置定义，无静态 Json 结构，可参考 Mission 的
 
 ## 11. Options特殊配置
 
-参考：[OX-007 - Options配置](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-007-fu-wu-ceng-yuan-li.html)
+参考：[OX-007 - Options配置](/origin-x-engine/1.ox-delivery-guide/ox-007-fu-wu-ceng-yuan-li.html)
 
 
 

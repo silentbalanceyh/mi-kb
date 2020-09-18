@@ -2,7 +2,7 @@
 
 >  xx包名为特殊的客户包名
 
-在[核心数据结构](/origin-x-engine/1-oxshi-shi-jiao-cheng/ox-006-jie-kou-kai-fa.html)中，有一类比较特殊的配置就是`options`配置，该配置是一个`JsonObject`的数据格式，但是在`Origin X`中他存在一些特殊的配置信息实现配置扩展，这些配置并非标准，但可以作为`Origin X`中的一种约定，Options的配置主要对应于`I_SERVICE`表中的`serviceConfig`字段。
+在[核心数据结构](/origin-x-engine/1.ox-delivery-guide/ox-006-jie-kou-kai-fa.html)中，有一类比较特殊的配置就是`options`配置，该配置是一个`JsonObject`的数据格式，但是在`Origin X`中他存在一些特殊的配置信息实现配置扩展，这些配置并非标准，但可以作为`Origin X`中的一种约定，Options的配置主要对应于`I_SERVICE`表中的`serviceConfig`字段。
 
 ## 1. 基本配置
 

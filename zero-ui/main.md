@@ -38,8 +38,8 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [GraphicEditor](6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphiceditor.html) | g6图编辑器 |
-| [GraphicViewer](6-zero-uizu-jian-shuo-ming/bian-ji-qi-pian/graphicviewer.html) | g6图查看器 |
+| [GraphicEditor](6-zero-ui-component/bian-ji-qi-pian/graphiceditor.html) | g6图编辑器 |
+| [GraphicViewer](6-zero-ui-component/bian-ji-qi-pian/graphicviewer.html) | g6图查看器 |
 
 ### 2. 表单
 
@@ -49,26 +49,26 @@ Zero UI文档用来讲解Zero UI框架的基本用法（[http://www.vertxui.cn](
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [ExGraphicPolloter](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicmaster.html) | 主图编辑器（只有一张主图） |
-| [ExGraphicSpider](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicspider.html) | 图元编辑器（带一个主节点） |
-| [ExGraphicViewer](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exgraphicviewer.html) | 拓扑图查看器 |
+| [ExGraphicPolloter](6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.html) | 主图编辑器（只有一张主图） |
+| [ExGraphicSpider](6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.html) | 图元编辑器（带一个主节点） |
+| [ExGraphicViewer](6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.html) | 拓扑图查看器 |
 
 #### 3.2. 表单组件
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [ExLogin](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exlogin.html) | 标准登录入口 |
-| [ExEntry](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exentry.html) | 协变登录入口 |
-| [ExRecord](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exrecord.html) | 记录查看器（查看核心记录） |
-| [ExForm](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exform.html) | 标准表单专用 |
-| [ExFormLink](6-zero-uizu-jian-shuo-ming/kuo-zhan-zu-jian/exformlink.html) | 关系管理器 |
+| [ExLogin](6-zero-ui-component/kuo-zhan-zu-jian/exlogin.html) | 标准登录入口 |
+| [ExEntry](6-zero-ui-component/kuo-zhan-zu-jian/exentry.html) | 协变登录入口 |
+| [ExRecord](6-zero-ui-component/kuo-zhan-zu-jian/exrecord.html) | 记录查看器（查看核心记录） |
+| [ExForm](6-zero-ui-component/kuo-zhan-zu-jian/exform.html) | 标准表单专用 |
+| [ExFormLink](6-zero-ui-component/kuo-zhan-zu-jian/exformlink.html) | 关系管理器 |
 
 ### 4. 基本组件
 
 | 组件 | 说明 |
 | :--- | :--- |
-| [LoadingAlert](6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingalert.html) | 警告信息呈现组件 |
-| [LoadingContent](6-zero-uizu-jian-shuo-ming/ji-ben-zu-jian/loadingcontent.html) | 加载信息呈现组件 |
+| [LoadingAlert](6-zero-ui-component/ji-ben-zu-jian/loadingalert.html) | 警告信息呈现组件 |
+| [LoadingContent](6-zero-ui-component/ji-ben-zu-jian/loadingcontent.html) | 加载信息呈现组件 |
 
 
 
