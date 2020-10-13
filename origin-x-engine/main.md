@@ -22,9 +22,14 @@ Origin X文档主页用来讲解Origin X框架的基本实施方法（主要面�
 * [OX-007 - Options配置](1.ox-delivery-guide/ox-007-delivery-options.html)
 * [OX-008 - 任务通道详解](1.ox-delivery-guide/ox-009-channel-task.html)
 * [OX-009 - 第一步：任务和接口配置](1.ox-delivery-guide/ox-009-step1-configuration.html)
-* [OX-010 - 第二步：通道开发](1.ox-delivery-guide/ox-010-step2-channel.html)
-* [OX-011 - 第三步：插件开发](1.ox-delivery-guide/ox-011-step3-plugin.html)
-* [OX-012 - 第四步：最终测试](1.ox-delivery-guide/ox-012-step4-testing.html)
+* [OX-010 - 第二步：通道开发「简」](1.ox-delivery-guide/ox-010-step2-channel.html)
+* [OX-011 - 第三步：插件开发「简」](1.ox-delivery-guide/ox-011-step3-plugin.html)
+* [OX-012 - 第四步：最终测试「简」](1.ox-delivery-guide/ox-012-step4-testing.html)
+* [OX-013 - 通道详细说明](1.ox-delivery-guide/ox-013-channel-demo.html)
+    * [OX-013.1 - 标准通道](1.ox-delivery-guide/ox-013-channel-standard.html)
+    * [OX-013.2 - CMDB通道](1.ox-delivery-guide/ox-013-channel-cmdb.html)
+    * [OX-013.3 - 待确认通道](1.ox-delivery-guide/ox-013-channel-confirm.html)
+    * [OX-013.4 - 集成通道](1.ox-delivery-guide/ox-013-channel-integration.html)
 
 ## 建模教程
 
