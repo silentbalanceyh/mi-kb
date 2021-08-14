@@ -32,8 +32,8 @@
 
 ## 核心原理
 
-    * [1.基本接口说明](origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md)
-    * [2.认证授权接口](origin-x-engine/3.ox-interface/oi-002-ren-zheng-shou-quan.md)
-    * [3.资源请求接口](origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md)
+* [1.基本接口说明](origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md)
+* [2.认证授权接口](origin-x-engine/3.ox-interface/oi-002-ren-zheng-shou-quan.md)
+* [3.资源请求接口](origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md)
 
 
