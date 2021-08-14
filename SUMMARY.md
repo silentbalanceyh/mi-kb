@@ -60,7 +60,6 @@
 
 ## 「叁」通用文档
 
-* [通用知识库主页](uniform-documentation/main.md)
 * [1.什锦类](uniform-documentation/interview/000.index.md)
     * [一个抽奖器需求](uniform-documentation/interview/001.pickup.md)
     * [CDA考试大纲（旧版）](uniform-documentation/interview/002.guide.md)

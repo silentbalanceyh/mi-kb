@@ -1,15 +1,5 @@
 # 环境搭建知识库
 
-环境搭建知识库主要用于描述所有教材、以及系列教程中的环境初始化说明。
-
-| 主目录 | 说明 |
-| :--- | :--- |
-| Docker容器环境 | 所有和Docker相关的容器基础环境 |
-| Zero&Ox环境 | Zero以及Origin X中的基础环境 |
-| Deployment部署教程 | 最终部署使用的核心教程 |
-| 其他环境 | 其他环境相关搭建文档 |
-| Zero Ai的使用 | Zero Ai工具箱教程 |
-
 ## 1. Docker容器环境
 
 * [END-001 Neo4j环境](/environment/1-dockerrong-qi-huan-jing/end-001-neo4jhuan-jing-chu-shi-hua.html)
