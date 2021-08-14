@@ -37,7 +37,7 @@
     * [10. 第二步：通道开发](origin-x-engine/1.ox-delivery-guide/ox-010-step2-channel.md)
     * [11. 第三步：插件开发](origin-x-engine/1.ox-delivery-guide/ox-011-step3-plugin.md)
     * [12. 第四步：最终测试](origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md)
-    * [13. 通道详细说明](origin-x-engine/1.ox-delivery-guide/ox-013-channel-demo.md)
+    * [13. 通道详细说明](origin-x-engine/1.ox-delivery-guide/ox-013-index.md)
         * [13.1. 标准通道](origin-x-engine/1.ox-delivery-guide/ox-013-channel-standard.md)
         * [13.2. CMDB通道](origin-x-engine/1.ox-delivery-guide/ox-013-channel-cmdb.md)
         * [13.3. 待确认通道](origin-x-engine/1.ox-delivery-guide/ox-013-channel-confirm.md)
