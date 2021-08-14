@@ -1,20 +1,8 @@
 # 通用知识库
 
-通用知识库部分的文档不进行编号处理，牵涉类型随时间改变而又所变动，但是通用型文档会针对不同类型进行类别分类
-
-| 主目录 | 说明 | 文档标记 |
-| :--- | :--- | :--- |
-| 面试题 | 和面试开发人员相关的一些习题处理 | I |
-| 软件理论领域 | 软件需求领域知识库 | R |
-| 语言相关 | 计算机语言相关基础 | L |
-| 开源项目相关 | 开源项目的一些相关文档 | O |
-| 规范相关 | 所有软件规范的相关文档 | S |
-
-## 面试题
-
-* [KMI-001 抽奖器需求](interview/kmi-001-chou-jiang-qi-xu-qiu.html)
-* [KMI-002 CDA考试大纲](interview/kmi-002-cdakao-shi-da-gang.html)
-* [KMI-003 Spring RESTful开发基础题](interview/kmi-003-spring-restfulkai-fa-ji-chu-ti.html)
+* [1.一个抽奖器需求](interview.001.pickup.md)
+* [2.CDA考试大纲（旧版）](interview.002.guide.md)
+* [3.Spring RESTful开发基础题](interview.003.restful.md)
 
 ## 软件理论领域
 
