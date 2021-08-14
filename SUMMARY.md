@@ -25,8 +25,7 @@
 
 ## 「贰」产品文档
 
-* [Origin X文档主页](origin-x-engine/main.md)
-* [实施教程](origin-x-engine/1-ox-delivery.md)
+* [实施开发](origin-x-engine/1-ox-delivery.md)
     * [1.项目结构说明](origin-x-engine/1.ox-delivery-guide/ox-001-structure-project.md)
     * [2.环境搭建](origin-x-engine/1.ox-delivery-guide/ox-002-environment-backend.md)
     * [3.代码结构](origin-x-engine/1.ox-delivery-guide/ox-003-structure-code.md)
@@ -54,7 +53,7 @@
     * [19.业务层 Mapping](origin-x-engine/3.ox-interface/oi-004-ye-wu-ceng-mapping-pei-zhi-shuo-ming.md)
     * [20.业务层 Dict](origin-x-engine/3.ox-interface/oi-005-ye-wu-ceng-dict.md)
     * [21.业务层 Identity](origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md)
-  * [核心原理](origin-x-engine/3-ox-interface.md)
+* [标准化安全接口](origin-x-engine/3-ox-interface.md)
     * [1.基本接口说明](origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md)
     * [2.认证授权接口](origin-x-engine/3.ox-interface/oi-002-ren-zheng-shou-quan.md)
     * [3.资源请求接口](origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md)

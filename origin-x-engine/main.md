@@ -1,6 +1,6 @@
 # Origin X Engine文档主页
 
-## 实施教程
+## 实施开发
 
 * [1.项目结构说明](1.ox-delivery-guide/ox-001-structure-project.md)
 * [2.环境搭建](1.ox-delivery-guide/ox-002-environment-backend.md)
@@ -30,7 +30,7 @@
 * [20.业务层 Dict](3.ox-interface/oi-005-ye-wu-ceng-dict.md)
 * [21.业务层 Identity](3.ox-interface/oi-006-ye-wu-ceng-identity.md)
 
-## 核心原理
+## 标准化安全接口
 
 * [1.基本接口说明](3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md)
 * [2.认证授权接口](3.ox-interface/oi-002-ren-zheng-shou-quan.md)
