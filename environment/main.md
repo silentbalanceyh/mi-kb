@@ -2,19 +2,20 @@
 
 ## 1. 依赖环境
 
-* [1.1.Neo4j环境](/environment/environment-dependency/001.neo4j.md)
-* [1.2.TiDB环境](/environment/environment-dependency/002.tidb.md)
-* [1.3.Elastic Search环境](/environment/environment-dependency/003.es.md)
-* [1.4.Etcd本地集群搭建](/environment/environment-dependency/004.etcd.md)
-* [1.5.Maven环境搭建](/environment/environment-dependency/005.maven.md)
+* [1.1. Neo4j环境](/environment/environment-dependency/001.neo4j.md)
+* [1.2. TiDB环境](/environment/environment-dependency/002.tidb.md)
+* [1.3. Elastic Search环境](/environment/environment-dependency/003.es.md)
+* [1.4. Etcd本地集群搭建](/environment/environment-dependency/004.etcd.md)
+* [1.5. Maven环境搭建](/environment/environment-dependency/005.maven.md)
+* [1.6. Istio环境搭建](/environment/environment-dependency/006.istio.md)
 
 ## 2. Zero环境
 
-* [2.1.ox-ui环境搭建](/environment/environment-zero/001.ox-ui.md)
-* [2.2.仓库初始化](/environment/environment-zero/002.initialize.md)
-* [2.3.zero-ui工程初始化](/environment/environment-zero/003.zero-ui.md)
-* [2.4.zero-ai的安装](/environment/environment-zero/004.zero-ai.md)
-* [2.5.zero-ui工程初始化（ai命令）](/environment/environment-zero/005.ai-initialize.md)
+* [2.1. ox-ui环境搭建](/environment/environment-zero/001.ox-ui.md)
+* [2.2. 仓库初始化](/environment/environment-zero/002.initialize.md)
+* [2.3. zero-ui工程初始化](/environment/environment-zero/003.zero-ui.md)
+* [2.4. zero-ai的安装](/environment/environment-zero/004.zero-ai.md)
+* [2.5. zero-ui工程初始化（ai命令）](/environment/environment-zero/005.ai-initialize.md)
 
 ## 3. 其他环境
 

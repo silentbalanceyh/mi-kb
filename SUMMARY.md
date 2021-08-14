@@ -8,6 +8,7 @@
     * [1.3. Elastic Search环境](environment/environment-dependency/003.es.md)
     * [1.4. Etcd本地集群搭建](environment/environment-dependency/004.etcd.md)
     * [1.5. Maven环境搭建](environment/environment-dependency/005.maven.md)
+    * [1.6. Istio环境搭建](/environment/environment-dependency/006.istio.md)
 * [2.Zero环境](environment/environment-zero/000.index.md)
     * [2.1. ox-ui环境搭建](/environment/environment-zero/001.ox-ui.md)
     * [2.2. 仓库初始化](/environment/environment-zero/002.initialize.md)
