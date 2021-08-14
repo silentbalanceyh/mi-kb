@@ -1,8 +1,8 @@
 # 通用知识库
 
-* [1.一个抽奖器需求](interview.001.pickup.md)
-* [2.CDA考试大纲（旧版）](interview.002.guide.md)
-* [3.Spring RESTful开发基础题](interview.003.restful.md)
+* [1.一个抽奖器需求](interview/001.pickup.md)
+* [2.CDA考试大纲（旧版）](interview/002.guide.md)
+* [3.Spring RESTful开发基础题](interview/003.restful.md)
 
 ## 软件理论领域
 
