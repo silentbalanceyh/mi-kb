@@ -87,7 +87,7 @@
 * [5.规范类](uniform-documentation/specification/000.index.md)
     * [UBL规范中的Price字段说明](uniform-documentation/specification/001.ubl.md)
 
-## 「肆」学习笔记
+## 「肆」实战记录
 
 * [K8S](/execution/k8s/000.index.md)
    * [1.基本概念](/execution/k8s/001.concept.md)

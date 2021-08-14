@@ -13,10 +13,14 @@
         "script", 
         "uniform-documentation"
     ], 
-    "execution": [
-        "main.md", 
-        "k8s", 
-        "istio"
+    "environment/environment-dependency": [
+        "006.istio.md", 
+        "000.index.md", 
+        "005.maven.md", 
+        "004.etcd.md", 
+        "003.es.md", 
+        "002.tidb.md", 
+        "001.neo4j.md"
     ], 
     "origin-x-engine/1.ox-delivery-guide": [
         "ox-013-index.md", 
@@ -164,8 +168,11 @@
         "origin-x-engine/1.ox-delivery-guide/ox-013-channel-confirm.md": 9006004, 
         "environment/environment-thirdpart": 8003, 
         "origin-x-engine/2.ox-modeling/om-003-model-checking.md": 9007002, 
+        "previous/specification": 10001, 
         "environment/environment-dependency/003.es.md": 8002005, 
         "execution/istio/000.index.md": 7003001, 
+        "previous/zero-ui": 10003, 
+        "previous/zero-up": 10004, 
         "_book/zero-up/1-zero-guide": 3011001, 
         "environment/environment-dependency/004.etcd.md": 8002004, 
         "execution/k8s/001.concept.md": 7002001, 
@@ -190,6 +197,7 @@
         "uniform-documentation/interview": 12003, 
         "origin-x-engine/2.ox-modeling/om-001-database": 9007004, 
         "_book/zero-up/2-vertx-tutorial": 3011003, 
+        "previous/utility-x": 10002, 
         "_sass": 5, 
         "summary.md": 1, 
         "origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md": 9006010, 
@@ -208,18 +216,19 @@
         "origin-x-engine/2.ox-modeling": 9007, 
         "docker": 6
     }, 
-    "environment/environment-dependency": [
-        "006.istio.md", 
-        "000.index.md", 
-        "005.maven.md", 
-        "004.etcd.md", 
-        "003.es.md", 
-        "002.tidb.md", 
-        "001.neo4j.md"
+    "previous": [
+        "specification", 
+        "utility-x", 
+        "zero-ui", 
+        "zero-up"
+    ], 
+    "execution": [
+        "main.md", 
+        "k8s", 
+        "istio"
     ], 
     "__raw_positions": {
         "_book/origin-x-engine/2-oxjian-mo-jiao-cheng": 2, 
-        "environment/environment-dependency/001.neo4j.md": 7, 
         "environment/environment-zero/004.zero-ai.md": 3, 
         "uniform-documentation/computer-language": 2, 
         "environment/environment-zero/005.ai-initialize.md": 4, 
@@ -271,8 +280,12 @@
         "assets/js": 4, 
         "origin-x-engine/1.ox-delivery-guide/ox-013-channel-confirm.md": 4, 
         "environment/environment-thirdpart": 3, 
+        "origin-x-engine/2.ox-modeling/om-003-model-checking.md": 2, 
+        "previous/specification": 1, 
         "environment/environment-dependency/003.es.md": 5, 
         "execution/istio/000.index.md": 1, 
+        "previous/zero-ui": 3, 
+        "previous/zero-up": 4, 
         "_book/zero-up/1-zero-guide": 1, 
         "environment/environment-dependency/004.etcd.md": 4, 
         "execution/k8s/001.concept.md": 1, 
@@ -281,11 +294,11 @@
         "uniform-documentation/specification": 6, 
         "environment/environment-zero": 4, 
         "_book/origin-x-engine": 5, 
-        "origin-x-engine/2.ox-modeling/om-002-form-field.md": 3, 
+        "origin-x-engine/1.ox-delivery-guide/ox-013-channel-standard.md": 18, 
         "origin-x-engine/3.ox-interface": 8, 
         "environment/environment-dependency/005.maven.md": 3, 
-        "origin-x-engine/1.ox-delivery-guide/ox-013-channel-standard.md": 18, 
-        "origin-x-engine/2.ox-modeling/om-003-model-checking.md": 2, 
+        "origin-x-engine/2.ox-modeling/om-002-form-field.md": 3, 
+        "environment/environment-dependency/001.neo4j.md": 7, 
         "environment/environment-zero/003.zero-ui.md": 5, 
         "origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md": 17, 
         "environment/environment-dependency/002.tidb.md": 6, 
@@ -298,6 +311,7 @@
         "origin-x-engine/2.ox-modeling/om-001-database": 4, 
         "assets/css": 1, 
         "_book/zero-up/2-vertx-tutorial": 3, 
+        "previous/utility-x": 2, 
         "_sass": 5, 
         "summary.md": 1, 
         "origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md": 10, 
