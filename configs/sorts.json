@@ -1,7 +1,7 @@
 {
     "": [
-        "summary.md", 
         "readme.md", 
+        "summary.md", 
         "_book", 
         "_layouts", 
         "_sass", 
@@ -13,10 +13,14 @@
         "script", 
         "uniform-documentation"
     ], 
-    "execution": [
-        "main.md", 
-        "k8s", 
-        "istio"
+    "environment/environment-dependency": [
+        "006.istio.md", 
+        "000.index.md", 
+        "005.maven.md", 
+        "004.etcd.md", 
+        "003.es.md", 
+        "002.tidb.md", 
+        "001.neo4j.md"
     ], 
     "origin-x-engine/1.ox-delivery-guide": [
         "ox-013-index.md", 
@@ -67,12 +71,6 @@
         "open-source", 
         "software-concept", 
         "specification"
-    ], 
-    "assets": [
-        "css", 
-        "fonts", 
-        "images", 
-        "js"
     ], 
     "environment": [
         "main.md", 
@@ -203,7 +201,7 @@
         "_book/zero-up/2-vertx-tutorial": 3011003, 
         "previous/utility-x": 10002, 
         "_sass": 5, 
-        "summary.md": 1, 
+        "summary.md": 2, 
         "origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md": 9006010, 
         "_book/utility-x": 3009, 
         "environment/environment-dependency/000.index.md": 8002002, 
@@ -211,7 +209,7 @@
         "uniform-documentation/main.md": 12001, 
         "environment/environment-dependency": 8002, 
         "_layouts": 4, 
-        "readme.md": 2, 
+        "readme.md": 1, 
         "execution/main.md": 7001, 
         "_book/zero-up/1-zeroji-ben-jiao-cheng": 3011002, 
         "origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md": 9006009, 
@@ -220,18 +218,19 @@
         "origin-x-engine/2.ox-modeling": 9007, 
         "docker": 6
     }, 
-    "environment/environment-dependency": [
-        "006.istio.md", 
-        "000.index.md", 
-        "005.maven.md", 
-        "004.etcd.md", 
-        "003.es.md", 
-        "002.tidb.md", 
-        "001.neo4j.md"
+    "previous": [
+        "specification", 
+        "utility-x", 
+        "zero-ui", 
+        "zero-up"
+    ], 
+    "execution": [
+        "main.md", 
+        "k8s", 
+        "istio"
     ], 
     "__raw_positions": {
         "_book/origin-x-engine/2-oxjian-mo-jiao-cheng": 2, 
-        "environment/environment-dependency/001.neo4j.md": 7, 
         "environment/environment-zero/004.zero-ai.md": 3, 
         "uniform-documentation/computer-language": 2, 
         "environment/environment-zero/005.ai-initialize.md": 4, 
@@ -276,13 +275,14 @@
         "origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md": 7, 
         "environment/environment-zero/001.ox-ui.md": 6, 
         "environment/environment-dependency/006.istio.md": 1, 
-        "_book/zero-up/kai-fa-gui-fan-xin-xi": 5, 
-        "_book/docker": 2, 
         "assets/fonts": 2, 
+        "_book/docker": 2, 
+        "_book/zero-up/kai-fa-gui-fan-xin-xi": 5, 
         "environment/environment-zero/000.index.md": 2, 
         "assets/js": 4, 
         "origin-x-engine/1.ox-delivery-guide/ox-013-channel-confirm.md": 4, 
         "environment/environment-thirdpart": 3, 
+        "origin-x-engine/2.ox-modeling/om-003-model-checking.md": 2, 
         "previous/specification": 1, 
         "environment/environment-dependency/003.es.md": 5, 
         "execution/istio/000.index.md": 1, 
@@ -300,7 +300,7 @@
         "origin-x-engine/3.ox-interface": 8, 
         "environment/environment-dependency/005.maven.md": 3, 
         "origin-x-engine/2.ox-modeling/om-002-form-field.md": 3, 
-        "origin-x-engine/2.ox-modeling/om-003-model-checking.md": 2, 
+        "environment/environment-dependency/001.neo4j.md": 7, 
         "environment/environment-zero/003.zero-ui.md": 5, 
         "origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md": 17, 
         "environment/environment-dependency/002.tidb.md": 6, 
@@ -315,7 +315,7 @@
         "_book/zero-up/2-vertx-tutorial": 3, 
         "previous/utility-x": 2, 
         "_sass": 5, 
-        "summary.md": 1, 
+        "summary.md": 2, 
         "origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md": 10, 
         "_book/utility-x": 9, 
         "environment/environment-dependency/000.index.md": 2, 
@@ -324,7 +324,7 @@
         "uniform-documentation/main.md": 1, 
         "environment/environment-dependency": 2, 
         "_layouts": 4, 
-        "readme.md": 2, 
+        "readme.md": 1, 
         "execution/main.md": 1, 
         "_book/zero-up/1-zeroji-ben-jiao-cheng": 2, 
         "origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md": 9, 
@@ -334,10 +334,10 @@
         "origin-x-engine/2.ox-modeling": 7, 
         "docker": 6
     }, 
-    "previous": [
-        "specification", 
-        "utility-x", 
-        "zero-ui", 
-        "zero-up"
+    "assets": [
+        "css", 
+        "fonts", 
+        "images", 
+        "js"
     ]
 }

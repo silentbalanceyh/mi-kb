@@ -8,6 +8,9 @@
 * [1.4. Etcd本地集群搭建](/environment/environment-dependency/004.etcd.md)
 * [1.5. Maven环境搭建](/environment/environment-dependency/005.maven.md)
 * [1.6. Istio环境搭建](/environment/environment-dependency/006.istio.md)
+* [1.7. Etcd高可用集群](/environment/environment-dependency/007.etcd-ha.md)
+* [1.8. K8S高可用集群](/environment/environment-dependency/008.k8s.md)
+* [1.9. K8S配配置认证机制](/environment/environment-dependency/009.k8s-token.md)
 
 ## 2. Zero环境
 
