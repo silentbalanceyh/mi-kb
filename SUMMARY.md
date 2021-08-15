@@ -91,4 +91,5 @@
 
 * [K8S](/execution/k8s/000.index.md)
    * [1.基本概念](/execution/k8s/001.concept.md)
+   * [2.配置参考](/execution/k8s/002.configuration.md)
 * [Istio](/execution/istio/000.index.md)

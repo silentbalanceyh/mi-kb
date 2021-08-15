@@ -1,15 +1,21 @@
 {
+    "/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md": {
+        "url": "", 
+        "path": "/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md", 
+        "_title": "zro002-di-yi-ge-zero", 
+        "title": "zro002-di-yi-ge-zero\n/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md"
+    }, 
     "/_book/zero-ui/3-antquan-jia-tong/34-ant-g6.md": {
         "url": "", 
         "path": "/_book/zero-ui/3-antquan-jia-tong/34-ant-g6.md", 
         "_title": "34-ant-g6", 
         "title": "34-ant-g6\n/_book/zero-ui/3-antquan-jia-tong/34-ant-g6.md"
     }, 
-    "/uniform-documentation/interview/002.guide.md": {
+    "/previous/utility-x/2-zerozhong-de-ux.md": {
         "url": "", 
-        "path": "/uniform-documentation/interview/002.guide.md", 
-        "_title": "002.guide", 
-        "title": "002.guide\n/uniform-documentation/interview/002.guide.md"
+        "path": "/previous/utility-x/2-zerozhong-de-ux.md", 
+        "_title": "2-zerozhong-de-ux", 
+        "title": "2-zerozhong-de-ux\n/previous/utility-x/2-zerozhong-de-ux.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/61-zero-ui-biao-zhun-zu-jian.md": {
         "url": "", 
@@ -22,12 +28,6 @@
         "path": "/uniform-documentation/computer-language/004.singleton-static.md", 
         "_title": "004.singleton-static", 
         "title": "004.singleton-static\n/uniform-documentation/computer-language/004.singleton-static.md"
-    }, 
-    "/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md": {
-        "url": "", 
-        "path": "/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md", 
-        "_title": "ox-004-environment-production", 
-        "title": "ox-004-environment-production\n/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md"
     }, 
     "/previous/zero-up/4.vertx.advanced/zbr-012-alpnxie-yi.md": {
         "url": "", 
@@ -53,11 +53,11 @@
         "_title": "zbr-014-sslzhong-de-cert-zheng-shu", 
         "title": "zbr-014-sslzhong-de-cert-zheng-shu\n/previous/zero-up/4.vertx.advanced/zbr-014-sslzhong-de-cert-zheng-shu.md"
     }, 
-    "/uniform-documentation/software-concept/001.requirement-evaluate.md": {
+    "/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md": {
         "url": "", 
-        "path": "/uniform-documentation/software-concept/001.requirement-evaluate.md", 
-        "_title": "001.requirement-evaluate", 
-        "title": "001.requirement-evaluate\n/uniform-documentation/software-concept/001.requirement-evaluate.md"
+        "path": "/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md", 
+        "_title": "kmo-011-process-dashboard", 
+        "title": "kmo-011-process-dashboard\n/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/bian-ji-qi-pian.md": {
         "url": "", 
@@ -71,11 +71,11 @@
         "_title": "utility-xzhu-ye", 
         "title": "utility-xzhu-ye\n/previous/zero-up/utility-xzhu-ye.md"
     }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md": {
+    "/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md": {
         "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md", 
-        "_title": "zbr-006-reactormo-shi", 
-        "title": "zbr-006-reactormo-shi\n/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md"
+        "path": "/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md", 
+        "_title": "spo-013-actcao-zuo-zu-jian", 
+        "title": "spo-013-actcao-zuo-zu-jian\n/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md"
     }, 
     "/environment/main.md": {
         "url": "", 
@@ -107,11 +107,11 @@
         "_title": "zbr-017-guan-yu-two-way-shuang-xiang-ren-zheng-mo-shi", 
         "title": "zbr-017-guan-yu-two-way-shuang-xiang-ren-zheng-mo-shi\n/previous/zero-up/4.vertx.advanced/zbr-017-guan-yu-two-way-shuang-xiang-ren-zheng-mo-shi.md"
     }, 
-    "/environment/environment-dependency/000.index.md": {
+    "/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md": {
         "url": "", 
-        "path": "/environment/environment-dependency/000.index.md", 
-        "_title": "000.index", 
-        "title": "000.index\n/environment/environment-dependency/000.index.md"
+        "path": "/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md", 
+        "_title": "ce-002-an-li-ff1a-huo-dong-an-li-fen-xi", 
+        "title": "ce-002-an-li-ff1a-huo-dong-an-li-fen-xi\n/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md"
     }, 
     "/previous/zero-ui/4-zero-ui-event/zua-001-kai-fa-zero-ui-di-yi-ge-ye-mian.md": {
         "url": "", 
@@ -131,11 +131,11 @@
         "_title": "cdakao-shi", 
         "title": "cdakao-shi\n/_book/uniform-documentation/cdakao-shi.md"
     }, 
-    "/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md": {
+    "/previous/zero-up/main/test.md": {
         "url": "", 
-        "path": "/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md", 
-        "_title": "uxi-001-uxajaxxxx", 
-        "title": "uxi-001-uxajaxxxx\n/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md"
+        "path": "/previous/zero-up/main/test.md", 
+        "_title": "test", 
+        "title": "test\n/previous/zero-up/main/test.md"
     }, 
     "/_book/environment/6-zero-ai/README.md": {
         "url": "", 
@@ -173,11 +173,11 @@
         "_title": "exform", 
         "title": "exform\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exform.md"
     }, 
-    "/previous/zero-up/4-javayu-yan-ji-chu.md": {
+    "/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md": {
         "url": "", 
-        "path": "/previous/zero-up/4-javayu-yan-ji-chu.md", 
-        "_title": "4-javayu-yan-ji-chu", 
-        "title": "4-javayu-yan-ji-chu\n/previous/zero-up/4-javayu-yan-ji-chu.md"
+        "path": "/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md", 
+        "_title": "spo-012-shu-ju-bang-ding-jie-dian-data", 
+        "title": "spo-012-shu-ju-bang-ding-jie-dian-data\n/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md"
     }, 
     "/previous/zero-up/1.zero.guide/zro001-ling-zhi-qi-yuan.md": {
         "url": "", 
@@ -185,17 +185,11 @@
         "_title": "zro001-ling-zhi-qi-yuan", 
         "title": "zro001-ling-zhi-qi-yuan\n/previous/zero-up/1.zero.guide/zro001-ling-zhi-qi-yuan.md"
     }, 
-    "/environment/environment-zero/001.ox-ui.md": {
+    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md": {
         "url": "", 
-        "path": "/environment/environment-zero/001.ox-ui.md", 
-        "_title": "001.ox-ui", 
-        "title": "001.ox-ui\n/environment/environment-zero/001.ox-ui.md"
-    }, 
-    "/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md": {
-        "url": "", 
-        "path": "/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md", 
-        "_title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi", 
-        "title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi\n/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md", 
+        "_title": "exformlink", 
+        "title": "exformlink\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md"
     }, 
     "/_book/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md": {
         "url": "", 
@@ -214,18 +208,6 @@
         "path": "/previous/specification/3-specification-origin-x/spo-014-dataeventpei-zhi-shuo-ming.md", 
         "_title": "spo-014-dataeventpei-zhi-shuo-ming", 
         "title": "spo-014-dataeventpei-zhi-shuo-ming\n/previous/specification/3-specification-origin-x/spo-014-dataeventpei-zhi-shuo-ming.md"
-    }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md": {
-        "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md", 
-        "_title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class", 
-        "title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class\n/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md"
-    }, 
-    "/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md": {
-        "url": "", 
-        "path": "/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md", 
-        "_title": "oi-006-ye-wu-ceng-identity", 
-        "title": "oi-006-ye-wu-ceng-identity\n/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md"
     }, 
     "/previous/specification/3-specification-origin-x/spo-003-bu-ju-pei-zhi-gui-fan.md": {
         "url": "", 
@@ -281,11 +263,11 @@
         "_title": "000.index", 
         "title": "000.index\n/uniform-documentation/computer-language/000.index.md"
     }, 
-    "/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md": {
+    "/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md": {
         "url": "", 
-        "path": "/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md", 
-        "_title": "zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian", 
-        "title": "zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian\n/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md"
+        "path": "/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md", 
+        "_title": "spo-010-controlde-ji-ben-jie-gou", 
+        "title": "spo-010-controlde-ji-ben-jie-gou\n/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md"
     }, 
     "/environment/environment-zero/002.initialize.md": {
         "url": "", 
@@ -299,17 +281,17 @@
         "_title": "zbr-013-sslzhong-de-pfx-zheng-shu", 
         "title": "zbr-013-sslzhong-de-pfx-zheng-shu\n/previous/zero-up/4.vertx.advanced/zbr-013-sslzhong-de-pfx-zheng-shu.md"
     }, 
-    "/_book/zero-up/3-zeroshi-zhan-fen-xi.md": {
+    "/environment/environment-zero/001.ox-ui.md": {
         "url": "", 
-        "path": "/_book/zero-up/3-zeroshi-zhan-fen-xi.md", 
-        "_title": "3-zeroshi-zhan-fen-xi", 
-        "title": "3-zeroshi-zhan-fen-xi\n/_book/zero-up/3-zeroshi-zhan-fen-xi.md"
+        "path": "/environment/environment-zero/001.ox-ui.md", 
+        "_title": "001.ox-ui", 
+        "title": "001.ox-ui\n/environment/environment-zero/001.ox-ui.md"
     }, 
-    "/uniform-documentation/open-source/004.oval.md": {
+    "/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md": {
         "url": "", 
-        "path": "/uniform-documentation/open-source/004.oval.md", 
-        "_title": "004.oval", 
-        "title": "004.oval\n/uniform-documentation/open-source/004.oval.md"
+        "path": "/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md", 
+        "_title": "oi-001-ji-ben-jie-kou-shuo-ming", 
+        "title": "oi-001-ji-ben-jie-kou-shuo-ming\n/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md"
     }, 
     "/origin-x-engine/4.ox-authorization/os-001-authorization.md": {
         "url": "", 
@@ -335,29 +317,17 @@
         "_title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi", 
         "title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi\n/_book/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md"
     }, 
-    "/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md": {
-        "url": "", 
-        "path": "/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md", 
-        "_title": "oi-001-ji-ben-jie-kou-shuo-ming", 
-        "title": "oi-001-ji-ben-jie-kou-shuo-ming\n/origin-x-engine/3.ox-interface/oi-001-ji-ben-jie-kou-shuo-ming.md"
-    }, 
     "/previous/specification/index/1-zero-specification.md": {
         "url": "", 
         "path": "/previous/specification/index/1-zero-specification.md", 
         "_title": "1-zero-specification", 
         "title": "1-zero-specification\n/previous/specification/index/1-zero-specification.md"
     }, 
-    "/_book/zero-up/1-zeroji-ben-jiao-cheng.md": {
+    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md": {
         "url": "", 
-        "path": "/_book/zero-up/1-zeroji-ben-jiao-cheng.md", 
-        "_title": "1-zeroji-ben-jiao-cheng", 
-        "title": "1-zeroji-ben-jiao-cheng\n/_book/zero-up/1-zeroji-ben-jiao-cheng.md"
-    }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md": {
-        "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md", 
-        "_title": "zbr-011-tcpzhong-de-keepalive-ji-zhi", 
-        "title": "zbr-011-tcpzhong-de-keepalive-ji-zhi\n/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md", 
+        "_title": "exgraphicspider", 
+        "title": "exgraphicspider\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md"
     }, 
     "/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-003-hui-zhi-pa-lei-tuo-fen-xi-tu.md": {
         "url": "", 
@@ -389,11 +359,17 @@
         "_title": "ox-013-channel-integration", 
         "title": "ox-013-channel-integration\n/origin-x-engine/1.ox-delivery-guide/ox-013-channel-integration.md"
     }, 
-    "/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md": {
+    "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md": {
         "url": "", 
-        "path": "/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md", 
-        "_title": "ox-014-model-addon", 
-        "title": "ox-014-model-addon\n/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md", 
+        "_title": "dialog", 
+        "title": "dialog\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md"
+    }, 
+    "/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md": {
+        "url": "", 
+        "path": "/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md", 
+        "_title": "ox-007-delivery-options", 
+        "title": "ox-007-delivery-options\n/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md"
     }, 
     "/execution/k8s/000.index.md": {
         "url": "", 
@@ -419,29 +395,17 @@
         "_title": "62-zero-extension-biao-zhun-zu-jian", 
         "title": "62-zero-extension-biao-zhun-zu-jian\n/_book/zero-ui/6-zero-uizu-jian-shuo-ming/62-zero-extension-biao-zhun-zu-jian.md"
     }, 
-    "/environment/environment-dependency/006.istio.md": {
+    "/uniform-documentation/software-concept/001.requirement-evaluate.md": {
         "url": "", 
-        "path": "/environment/environment-dependency/006.istio.md", 
-        "_title": "006.istio", 
-        "title": "006.istio\n/environment/environment-dependency/006.istio.md"
+        "path": "/uniform-documentation/software-concept/001.requirement-evaluate.md", 
+        "_title": "001.requirement-evaluate", 
+        "title": "001.requirement-evaluate\n/uniform-documentation/software-concept/001.requirement-evaluate.md"
     }, 
-    "/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md": {
+    "/environment/environment-zero/000.index.md": {
         "url": "", 
-        "path": "/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md", 
-        "_title": "kmo-011-process-dashboard", 
-        "title": "kmo-011-process-dashboard\n/_book/uniform-documentation/open-source/kmo-011-process-dashboard.md"
-    }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md": {
-        "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md", 
-        "_title": "zbr-007-nettyzhong-de-pipeline-ji-zhi", 
-        "title": "zbr-007-nettyzhong-de-pipeline-ji-zhi\n/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md"
-    }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md": {
-        "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md", 
-        "_title": "zbr-002-tong-bu-he-yi-bu", 
-        "title": "zbr-002-tong-bu-he-yi-bu\n/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md"
+        "path": "/environment/environment-zero/000.index.md", 
+        "_title": "000.index", 
+        "title": "000.index\n/environment/environment-zero/000.index.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exlogin.md": {
         "url": "", 
@@ -485,11 +449,17 @@
         "_title": "4-restful-design-specification", 
         "title": "4-restful-design-specification\n/previous/specification/index/4-restful-design-specification.md"
     }, 
-    "/execution/k8s/001.concept.md": {
+    "/previous/zero-up/2-vertxsui-sui-nian.md": {
         "url": "", 
-        "path": "/execution/k8s/001.concept.md", 
-        "_title": "001.concept", 
-        "title": "001.concept\n/execution/k8s/001.concept.md"
+        "path": "/previous/zero-up/2-vertxsui-sui-nian.md", 
+        "_title": "2-vertxsui-sui-nian", 
+        "title": "2-vertxsui-sui-nian\n/previous/zero-up/2-vertxsui-sui-nian.md"
+    }, 
+    "/origin-x-engine/1-ox-delivery.md": {
+        "url": "", 
+        "path": "/origin-x-engine/1-ox-delivery.md", 
+        "_title": "1-ox-delivery", 
+        "title": "1-ox-delivery\n/origin-x-engine/1-ox-delivery.md"
     }, 
     "/_book/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md": {
         "url": "", 
@@ -503,11 +473,17 @@
         "_title": "2-ox-modeling", 
         "title": "2-ox-modeling\n/origin-x-engine/2-ox-modeling.md"
     }, 
-    "/_book/utility-x/main.md": {
+    "/previous/utility-x/3-zero-uizhong-de-ux.md": {
         "url": "", 
-        "path": "/_book/utility-x/main.md", 
-        "_title": "main", 
-        "title": "main\n/_book/utility-x/main.md"
+        "path": "/previous/utility-x/3-zero-uizhong-de-ux.md", 
+        "_title": "3-zero-uizhong-de-ux", 
+        "title": "3-zero-uizhong-de-ux\n/previous/utility-x/3-zero-uizhong-de-ux.md"
+    }, 
+    "/environment/environment-thirdpart/002.karma-es-webpack.md": {
+        "url": "", 
+        "path": "/environment/environment-thirdpart/002.karma-es-webpack.md", 
+        "_title": "002.karma-es-webpack", 
+        "title": "002.karma-es-webpack\n/environment/environment-thirdpart/002.karma-es-webpack.md"
     }, 
     "/_book/zero-ui/2-reactsui-sui-nian.md": {
         "url": "", 
@@ -539,23 +515,11 @@
         "_title": "33-ant-g2", 
         "title": "33-ant-g2\n/_book/zero-ui/3-antquan-jia-tong/33-ant-g2.md"
     }, 
-    "/previous/utility-x/2-zerozhong-de-ux.md": {
+    "/uniform-documentation/interview/002.guide.md": {
         "url": "", 
-        "path": "/previous/utility-x/2-zerozhong-de-ux.md", 
-        "_title": "2-zerozhong-de-ux", 
-        "title": "2-zerozhong-de-ux\n/previous/utility-x/2-zerozhong-de-ux.md"
-    }, 
-    "/environment/environment-dependency/002.tidb.md": {
-        "url": "", 
-        "path": "/environment/environment-dependency/002.tidb.md", 
-        "_title": "002.tidb", 
-        "title": "002.tidb\n/environment/environment-dependency/002.tidb.md"
-    }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md": {
-        "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md", 
-        "_title": "zbr-015-guan-yu-tls-xie-yi", 
-        "title": "zbr-015-guan-yu-tls-xie-yi\n/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md"
+        "path": "/uniform-documentation/interview/002.guide.md", 
+        "_title": "002.guide", 
+        "title": "002.guide\n/uniform-documentation/interview/002.guide.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/biao-dan-pian.md": {
         "url": "", 
@@ -563,11 +527,11 @@
         "_title": "biao-dan-pian", 
         "title": "biao-dan-pian\n/previous/zero-ui/6-zero-ui-component/biao-dan-pian.md"
     }, 
-    "/previous/utility-x/main.md": {
+    "/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md": {
         "url": "", 
-        "path": "/previous/utility-x/main.md", 
-        "_title": "main", 
-        "title": "main\n/previous/utility-x/main.md"
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md", 
+        "_title": "zbr-002-tong-bu-he-yi-bu", 
+        "title": "zbr-002-tong-bu-he-yi-bu\n/previous/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md"
     }, 
     "/origin-x-engine/3.ox-interface/oi-004-ye-wu-ceng-mapping-pei-zhi-shuo-ming.md": {
         "url": "", 
@@ -599,17 +563,17 @@
         "_title": "000.index", 
         "title": "000.index\n/uniform-documentation/interview/000.index.md"
     }, 
-    "/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md": {
+    "/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md": {
         "url": "", 
-        "path": "/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md", 
-        "_title": "spo-010-controlde-ji-ben-jie-gou", 
-        "title": "spo-010-controlde-ji-ben-jie-gou\n/previous/specification/3-specification-origin-x/spo-010-controlde-ji-ben-jie-gou.md"
+        "path": "/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md", 
+        "_title": "zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian", 
+        "title": "zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian\n/previous/zero-up/3.vertx.tutorial/zvx-001-ji-yuauth-common-kai-fa-vert-x-zi-ding-yi-an-quan-zu-jian.md"
     }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md": {
+    "/_book/zero-up/main/test.md": {
         "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md", 
-        "_title": "zbr-005-rxjava2zhong-desingle-jie-xi", 
-        "title": "zbr-005-rxjava2zhong-desingle-jie-xi\n/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md"
+        "path": "/_book/zero-up/main/test.md", 
+        "_title": "test", 
+        "title": "test\n/_book/zero-up/main/test.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/navigation.md": {
         "url": "", 
@@ -647,11 +611,11 @@
         "_title": "om-001-column-type", 
         "title": "om-001-column-type\n/origin-x-engine/2.ox-modeling/om-001-column-type.md"
     }, 
-    "/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md": {
         "url": "", 
-        "path": "/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md", 
-        "_title": "spr-003-ox-restfulshe-ji-gui-fan", 
-        "title": "spr-003-ox-restfulshe-ji-gui-fan\n/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md", 
+        "_title": "zbr-015-guan-yu-tls-xie-yi", 
+        "title": "zbr-015-guan-yu-tls-xie-yi\n/_book/zero-up/4.vertx.advanced/zbr-015-guan-yu-tls-xie-yi.md"
     }, 
     "/previous/specification/3-specification-origin-x/spo-006-ajaxqing-qiu-ji-ben-shuo-ming.md": {
         "url": "", 
@@ -665,12 +629,6 @@
         "_title": "ox-006-structure-data", 
         "title": "ox-006-structure-data\n/origin-x-engine/1.ox-delivery-guide/ox-006-structure-data.md"
     }, 
-    "/uniform-documentation/open-source/007.jasmine.md": {
-        "url": "", 
-        "path": "/uniform-documentation/open-source/007.jasmine.md", 
-        "_title": "007.jasmine", 
-        "title": "007.jasmine\n/uniform-documentation/open-source/007.jasmine.md"
-    }, 
     "/previous/zero-ui/5-zero-uizhong-de-shu-xing-jie-xi-qi.md": {
         "url": "", 
         "path": "/previous/zero-ui/5-zero-uizhong-de-shu-xing-jie-xi-qi.md", 
@@ -682,6 +640,12 @@
         "path": "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingimage.md", 
         "_title": "loadingimage", 
         "title": "loadingimage\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingimage.md"
+    }, 
+    "/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md": {
+        "url": "", 
+        "path": "/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md", 
+        "_title": "spr-003-ox-restfulshe-ji-gui-fan", 
+        "title": "spr-003-ox-restfulshe-ji-gui-fan\n/previous/specification/4-specification-restful/spr-003-ox-restfulshe-ji-gui-fan.md"
     }, 
     "/previous/specification/3-specification-origin-x/spo-015-bu-tong-zu-jian-de-event-jie-dian.md": {
         "url": "", 
@@ -695,17 +659,23 @@
         "_title": "spo-011-rong-qi-lei-xing-de-control", 
         "title": "spo-011-rong-qi-lei-xing-de-control\n/previous/specification/3-specification-origin-x/spo-011-rong-qi-lei-xing-de-control.md"
     }, 
+    "/previous/utility-x/1-she-ji-li-nian.md": {
+        "url": "", 
+        "path": "/previous/utility-x/1-she-ji-li-nian.md", 
+        "_title": "1-she-ji-li-nian", 
+        "title": "1-she-ji-li-nian\n/previous/utility-x/1-she-ji-li-nian.md"
+    }, 
     "/uniform-documentation/main.md": {
         "url": "", 
         "path": "/uniform-documentation/main.md", 
         "_title": "main", 
         "title": "main\n/uniform-documentation/main.md"
     }, 
-    "/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md": {
+    "/environment/environment-dependency/006.istio.md": {
         "url": "", 
-        "path": "/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md", 
-        "_title": "zro003-restfulzhong-de-path-he-method", 
-        "title": "zro003-restfulzhong-de-path-he-method\n/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md"
+        "path": "/environment/environment-dependency/006.istio.md", 
+        "_title": "006.istio", 
+        "title": "006.istio\n/environment/environment-dependency/006.istio.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialogmenu.md": {
         "url": "", 
@@ -713,23 +683,17 @@
         "_title": "dialogmenu", 
         "title": "dialogmenu\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialogmenu.md"
     }, 
-    "/_book/zero-up/main/test.md": {
-        "url": "", 
-        "path": "/_book/zero-up/main/test.md", 
-        "_title": "test", 
-        "title": "test\n/_book/zero-up/main/test.md"
-    }, 
     "/previous/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md": {
         "url": "", 
         "path": "/previous/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md", 
         "_title": "zbr-004-actormo-xing", 
         "title": "zbr-004-actormo-xing\n/previous/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md"
     }, 
-    "/previous/zero-ui/3-ant-development/32-ant-design-pro.md": {
+    "/environment/environment-dependency/002.tidb.md": {
         "url": "", 
-        "path": "/previous/zero-ui/3-ant-development/32-ant-design-pro.md", 
-        "_title": "32-ant-design-pro", 
-        "title": "32-ant-design-pro\n/previous/zero-ui/3-ant-development/32-ant-design-pro.md"
+        "path": "/environment/environment-dependency/002.tidb.md", 
+        "_title": "002.tidb", 
+        "title": "002.tidb\n/environment/environment-dependency/002.tidb.md"
     }, 
     "/environment/environment-zero/005.ai-initialize.md": {
         "url": "", 
@@ -755,11 +719,17 @@
         "_title": "main", 
         "title": "main\n/_book/specification/main.md"
     }, 
-    "/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md": {
+    "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md": {
         "url": "", 
-        "path": "/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md", 
-        "_title": "ox-009-step1-configuration", 
-        "title": "ox-009-step1-configuration\n/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md", 
+        "_title": "loadingalert", 
+        "title": "loadingalert\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md"
+    }, 
+    "/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md": {
+        "url": "", 
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md", 
+        "_title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class", 
+        "title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class\n/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingcontent.md": {
         "url": "", 
@@ -772,12 +742,6 @@
         "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian.md", 
         "_title": "kuo-zhan-zu-jian", 
         "title": "kuo-zhan-zu-jian\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian.md"
-    }, 
-    "/environment/environment-thirdpart/002.karma-es-webpack.md": {
-        "url": "", 
-        "path": "/environment/environment-thirdpart/002.karma-es-webpack.md", 
-        "_title": "002.karma-es-webpack", 
-        "title": "002.karma-es-webpack\n/environment/environment-thirdpart/002.karma-es-webpack.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/bian-ji-qi-pian/graphiceditor.md": {
         "url": "", 
@@ -821,11 +785,11 @@
         "_title": "006.importing-detail", 
         "title": "006.importing-detail\n/uniform-documentation/computer-language/006.importing-detail.md"
     }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md": {
+    "/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md": {
         "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md", 
-        "_title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class", 
-        "title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class\n/previous/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md"
+        "path": "/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md", 
+        "_title": "zro003-restfulzhong-de-path-he-method", 
+        "title": "zro003-restfulzhong-de-path-he-method\n/_book/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md"
     }, 
     "/previous/specification/3-specification-origin-x/spo-007-ajaxzhong-de-cha-xun-yin-qing.md": {
         "url": "", 
@@ -839,12 +803,6 @@
         "_title": "ox-009-channel-task", 
         "title": "ox-009-channel-task\n/origin-x-engine/1.ox-delivery-guide/ox-009-channel-task.md"
     }, 
-    "/environment/environment-dependency/001.neo4j.md": {
-        "url": "", 
-        "path": "/environment/environment-dependency/001.neo4j.md", 
-        "_title": "001.neo4j", 
-        "title": "001.neo4j\n/environment/environment-dependency/001.neo4j.md"
-    }, 
     "/previous/specification/3-specification-origin-x/spo-002-jie-mian-pei-zhi-quan-json-shi-li.md": {
         "url": "", 
         "path": "/previous/specification/3-specification-origin-x/spo-002-jie-mian-pei-zhi-quan-json-shi-li.md", 
@@ -856,18 +814,6 @@
         "path": "/origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md", 
         "_title": "ox-005-structure-channel", 
         "title": "ox-005-structure-channel\n/origin-x-engine/1.ox-delivery-guide/ox-005-structure-channel.md"
-    }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md": {
-        "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md", 
-        "_title": "zbr-005-rxjava2zhong-desingle-jie-xi", 
-        "title": "zbr-005-rxjava2zhong-desingle-jie-xi\n/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md"
-    }, 
-    "/environment/environment-zero/000.index.md": {
-        "url": "", 
-        "path": "/environment/environment-zero/000.index.md", 
-        "_title": "000.index", 
-        "title": "000.index\n/environment/environment-zero/000.index.md"
     }, 
     "/origin-x-engine/2.ox-modeling/om-001-database/om-001-1-mysql.md": {
         "url": "", 
@@ -886,12 +832,6 @@
         "path": "/origin-x-engine/1.ox-delivery-guide/ox-010-step2-channel.md", 
         "_title": "ox-010-step2-channel", 
         "title": "ox-010-step2-channel\n/origin-x-engine/1.ox-delivery-guide/ox-010-step2-channel.md"
-    }, 
-    "/previous/zero-up/main/test.md": {
-        "url": "", 
-        "path": "/previous/zero-up/main/test.md", 
-        "_title": "test", 
-        "title": "test\n/previous/zero-up/main/test.md"
     }, 
     "/previous/utility-x/6-origin-xzhong-de-fn.md": {
         "url": "", 
@@ -929,11 +869,11 @@
         "_title": "5-zerozhong-de-fn", 
         "title": "5-zerozhong-de-fn\n/previous/utility-x/5-zerozhong-de-fn.md"
     }, 
-    "/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md": {
         "url": "", 
-        "path": "/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md", 
-        "_title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi", 
-        "title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi\n/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md", 
+        "_title": "zbr-007-nettyzhong-de-pipeline-ji-zhi", 
+        "title": "zbr-007-nettyzhong-de-pipeline-ji-zhi\n/_book/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md"
     }, 
     "/previous/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md": {
         "url": "", 
@@ -941,11 +881,17 @@
         "_title": "zbr-006-reactormo-shi", 
         "title": "zbr-006-reactormo-shi\n/previous/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md"
     }, 
-    "/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md": {
+    "/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md": {
         "url": "", 
-        "path": "/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md", 
-        "_title": "zro002-di-yi-ge-zero", 
-        "title": "zro002-di-yi-ge-zero\n/previous/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md"
+        "path": "/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md", 
+        "_title": "ox-012-step4-testing", 
+        "title": "ox-012-step4-testing\n/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md"
+    }, 
+    "/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md": {
+        "url": "", 
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md", 
+        "_title": "zbr-005-rxjava2zhong-desingle-jie-xi", 
+        "title": "zbr-005-rxjava2zhong-desingle-jie-xi\n/_book/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialogbutton.md": {
         "url": "", 
@@ -953,23 +899,35 @@
         "_title": "dialogbutton", 
         "title": "dialogbutton\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialogbutton.md"
     }, 
-    "/previous/zero-up/development-specification.md": {
-        "url": "", 
-        "path": "/previous/zero-up/development-specification.md", 
-        "_title": "development-specification", 
-        "title": "development-specification\n/previous/zero-up/development-specification.md"
-    }, 
     "/previous/zero-ui/4-zero-ui-event/zua-002-he-zi-yuan-wen-jian-bang-ding.md": {
         "url": "", 
         "path": "/previous/zero-ui/4-zero-ui-event/zua-002-he-zi-yuan-wen-jian-bang-ding.md", 
         "_title": "zua-002-he-zi-yuan-wen-jian-bang-ding", 
         "title": "zua-002-he-zi-yuan-wen-jian-bang-ding\n/previous/zero-ui/4-zero-ui-event/zua-002-he-zi-yuan-wen-jian-bang-ding.md"
     }, 
-    "/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md": {
+    "/previous/zero-up/development-specification.md": {
         "url": "", 
-        "path": "/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md", 
-        "_title": "zbr-004-actormo-xing", 
-        "title": "zbr-004-actormo-xing\n/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md"
+        "path": "/previous/zero-up/development-specification.md", 
+        "_title": "development-specification", 
+        "title": "development-specification\n/previous/zero-up/development-specification.md"
+    }, 
+    "/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md": {
+        "url": "", 
+        "path": "/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md", 
+        "_title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi", 
+        "title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi\n/previous/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md"
+    }, 
+    "/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md": {
+        "url": "", 
+        "path": "/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md", 
+        "_title": "ox-004-environment-production", 
+        "title": "ox-004-environment-production\n/origin-x-engine/1.ox-delivery-guide/ox-004-environment-production.md"
+    }, 
+    "/previous/zero-ui/3-ant-development/32-ant-design-pro.md": {
+        "url": "", 
+        "path": "/previous/zero-ui/3-ant-development/32-ant-design-pro.md", 
+        "_title": "32-ant-design-pro", 
+        "title": "32-ant-design-pro\n/previous/zero-ui/3-ant-development/32-ant-design-pro.md"
     }, 
     "/_book/zero-up/4.vertx.advanced/zbr-002-tong-bu-he-yi-bu.md": {
         "url": "", 
@@ -1007,11 +965,11 @@
         "_title": "zui-008-tablebiao-ge-zhong-de-lie-guo-lv", 
         "title": "zui-008-tablebiao-ge-zhong-de-lie-guo-lv\n/previous/zero-ui/1-zero-ui-guide/zui-008-tablebiao-ge-zhong-de-lie-guo-lv.md"
     }, 
-    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md": {
+    "/_book/zero-up/3-zeroshi-zhan-fen-xi.md": {
         "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md", 
-        "_title": "exformlink", 
-        "title": "exformlink\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md"
+        "path": "/_book/zero-up/3-zeroshi-zhan-fen-xi.md", 
+        "_title": "3-zeroshi-zhan-fen-xi", 
+        "title": "3-zeroshi-zhan-fen-xi\n/_book/zero-up/3-zeroshi-zhan-fen-xi.md"
     }, 
     "/previous/zero-up/2.zero.foundation/zro002-di-yi-ge-zero.md": {
         "url": "", 
@@ -1049,6 +1007,18 @@
         "_title": "2-zero-ui-specification", 
         "title": "2-zero-ui-specification\n/previous/specification/index/2-zero-ui-specification.md"
     }, 
+    "/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md": {
+        "url": "", 
+        "path": "/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md", 
+        "_title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi", 
+        "title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi\n/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md"
+    }, 
+    "/environment/environment-zero/004.zero-ai.md": {
+        "url": "", 
+        "path": "/environment/environment-zero/004.zero-ai.md", 
+        "_title": "004.zero-ai", 
+        "title": "004.zero-ai\n/environment/environment-zero/004.zero-ai.md"
+    }, 
     "/uniform-documentation/interview/003.restful.md": {
         "url": "", 
         "path": "/uniform-documentation/interview/003.restful.md", 
@@ -1061,11 +1031,23 @@
         "_title": "spo-009-assistfu-zhu-shu-ju-ajax", 
         "title": "spo-009-assistfu-zhu-shu-ju-ajax\n/previous/specification/3-specification-origin-x/spo-009-assistfu-zhu-shu-ju-ajax.md"
     }, 
+    "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md": {
+        "url": "", 
+        "path": "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md", 
+        "_title": "spc-000-ye-wu-zhu-yu-gui-fan", 
+        "title": "spc-000-ye-wu-zhu-yu-gui-fan\n/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md"
+    }, 
     "/environment/environment-dependency/005.maven.md": {
         "url": "", 
         "path": "/environment/environment-dependency/005.maven.md", 
         "_title": "005.maven", 
         "title": "005.maven\n/environment/environment-dependency/005.maven.md"
+    }, 
+    "/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md": {
+        "url": "", 
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md", 
+        "_title": "zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di", 
+        "title": "zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di\n/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md"
     }, 
     "/previous/zero-ui/1-zero-ui-guide/zui-007-tablebiao-ge-zhong-de-lie-xuan-ran.md": {
         "url": "", 
@@ -1097,17 +1079,29 @@
         "_title": "006.mockito", 
         "title": "006.mockito\n/uniform-documentation/open-source/006.mockito.md"
     }, 
+    "/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md": {
+        "url": "", 
+        "path": "/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md", 
+        "_title": "spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming", 
+        "title": "spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming\n/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md"
+    }, 
+    "/execution/k8s/002.configuration.md": {
+        "url": "", 
+        "path": "/execution/k8s/002.configuration.md", 
+        "_title": "002.configuration", 
+        "title": "002.configuration\n/execution/k8s/002.configuration.md"
+    }, 
     "/environment/environment-thirdpart/005.docker-spring-boot.md": {
         "url": "", 
         "path": "/environment/environment-thirdpart/005.docker-spring-boot.md", 
         "_title": "005.docker-spring-boot", 
         "title": "005.docker-spring-boot\n/environment/environment-thirdpart/005.docker-spring-boot.md"
     }, 
-    "/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md": {
+    "/previous/zero-up/4-javayu-yan-ji-chu.md": {
         "url": "", 
-        "path": "/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md", 
-        "_title": "spo-012-shu-ju-bang-ding-jie-dian-data", 
-        "title": "spo-012-shu-ju-bang-ding-jie-dian-data\n/previous/specification/3-specification-origin-x/spo-012-shu-ju-bang-ding-jie-dian-data.md"
+        "path": "/previous/zero-up/4-javayu-yan-ji-chu.md", 
+        "_title": "4-javayu-yan-ji-chu", 
+        "title": "4-javayu-yan-ji-chu\n/previous/zero-up/4-javayu-yan-ji-chu.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/62-zero-extension-biao-zhun-zu-jian.md": {
         "url": "", 
@@ -1133,17 +1127,11 @@
         "_title": "zbr-008-tcpxie-yi-zhong-de-reuse", 
         "title": "zbr-008-tcpxie-yi-zhong-de-reuse\n/previous/zero-up/4.vertx.advanced/zbr-008-tcpxie-yi-zhong-de-reuse.md"
     }, 
-    "/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md": {
+    "/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md": {
         "url": "", 
-        "path": "/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md", 
-        "_title": "oi-003-zi-yuan-qing-qiu-chu-shi-hua", 
-        "title": "oi-003-zi-yuan-qing-qiu-chu-shi-hua\n/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md"
-    }, 
-    "/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md": {
-        "url": "", 
-        "path": "/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md", 
-        "_title": "zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi", 
-        "title": "zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi\n/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md"
+        "path": "/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md", 
+        "_title": "ox-009-step1-configuration", 
+        "title": "ox-009-step1-configuration\n/origin-x-engine/1.ox-delivery-guide/ox-009-step1-configuration.md"
     }, 
     "/previous/zero-ui/4-zero-uishi-zhan-fen-xi.md": {
         "url": "", 
@@ -1181,11 +1169,11 @@
         "_title": "000.index", 
         "title": "000.index\n/uniform-documentation/specification/000.index.md"
     }, 
-    "/previous/zero-up/2-vertxsui-sui-nian.md": {
+    "/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md": {
         "url": "", 
-        "path": "/previous/zero-up/2-vertxsui-sui-nian.md", 
-        "_title": "2-vertxsui-sui-nian", 
-        "title": "2-vertxsui-sui-nian\n/previous/zero-up/2-vertxsui-sui-nian.md"
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md", 
+        "_title": "zbr-005-rxjava2zhong-desingle-jie-xi", 
+        "title": "zbr-005-rxjava2zhong-desingle-jie-xi\n/previous/zero-up/4.vertx.advanced/zbr-005-rxjava2zhong-desingle-jie-xi.md"
     }, 
     "/previous/specification/1-specification-zero/spc-003-ye-wu-zhu-yu-gui-fan.md": {
         "url": "", 
@@ -1199,11 +1187,11 @@
         "_title": "3-antquan-jia-tong", 
         "title": "3-antquan-jia-tong\n/previous/zero-ui/3-antquan-jia-tong.md"
     }, 
-    "/previous/utility-x/3-zero-uizhong-de-ux.md": {
+    "/_book/zero-up/1-zeroji-ben-jiao-cheng.md": {
         "url": "", 
-        "path": "/previous/utility-x/3-zero-uizhong-de-ux.md", 
-        "_title": "3-zero-uizhong-de-ux", 
-        "title": "3-zero-uizhong-de-ux\n/previous/utility-x/3-zero-uizhong-de-ux.md"
+        "path": "/_book/zero-up/1-zeroji-ben-jiao-cheng.md", 
+        "_title": "1-zeroji-ben-jiao-cheng", 
+        "title": "1-zeroji-ben-jiao-cheng\n/_book/zero-up/1-zeroji-ben-jiao-cheng.md"
     }, 
     "/environment/environment-dependency/003.es.md": {
         "url": "", 
@@ -1235,17 +1223,17 @@
         "_title": "001.ubl", 
         "title": "001.ubl\n/uniform-documentation/specification/001.ubl.md"
     }, 
+    "/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md": {
+        "url": "", 
+        "path": "/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md", 
+        "_title": "oi-006-ye-wu-ceng-identity", 
+        "title": "oi-006-ye-wu-ceng-identity\n/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md"
+    }, 
     "/uniform-documentation/computer-language/005.class-structure.md": {
         "url": "", 
         "path": "/uniform-documentation/computer-language/005.class-structure.md", 
         "_title": "005.class-structure", 
         "title": "005.class-structure\n/uniform-documentation/computer-language/005.class-structure.md"
-    }, 
-    "/previous/utility-x/4-zerozhong-de-ut.md": {
-        "url": "", 
-        "path": "/previous/utility-x/4-zerozhong-de-ut.md", 
-        "_title": "4-zerozhong-de-ut", 
-        "title": "4-zerozhong-de-ut\n/previous/utility-x/4-zerozhong-de-ut.md"
     }, 
     "/previous/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md": {
         "url": "", 
@@ -1253,17 +1241,11 @@
         "_title": "zbr-007-nettyzhong-de-pipeline-ji-zhi", 
         "title": "zbr-007-nettyzhong-de-pipeline-ji-zhi\n/previous/zero-up/4.vertx.advanced/zbr-007-nettyzhong-de-pipeline-ji-zhi.md"
     }, 
-    "/environment/environment-dependency/004.etcd.md": {
+    "/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md": {
         "url": "", 
-        "path": "/environment/environment-dependency/004.etcd.md", 
-        "_title": "004.etcd", 
-        "title": "004.etcd\n/environment/environment-dependency/004.etcd.md"
-    }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md": {
-        "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md", 
-        "_title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi", 
-        "title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi\n/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md"
+        "path": "/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md", 
+        "_title": "ox-014-model-addon", 
+        "title": "ox-014-model-addon\n/origin-x-engine/1.ox-delivery-guide/ox-014-model-addon.md"
     }, 
     "/origin-x-engine/1.ox-delivery-guide/ox-002-environment-backend.md": {
         "url": "", 
@@ -1271,11 +1253,11 @@
         "_title": "ox-002-environment-backend", 
         "title": "ox-002-environment-backend\n/origin-x-engine/1.ox-delivery-guide/ox-002-environment-backend.md"
     }, 
-    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md": {
+    "/environment/environment-dependency/000.index.md": {
         "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md", 
-        "_title": "exgraphicviewer", 
-        "title": "exgraphicviewer\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md"
+        "path": "/environment/environment-dependency/000.index.md", 
+        "_title": "000.index", 
+        "title": "000.index\n/environment/environment-dependency/000.index.md"
     }, 
     "/origin-x-engine/1.ox-delivery-guide/ox-001-structure-project.md": {
         "url": "", 
@@ -1283,11 +1265,11 @@
         "_title": "ox-001-structure-project", 
         "title": "ox-001-structure-project\n/origin-x-engine/1.ox-delivery-guide/ox-001-structure-project.md"
     }, 
-    "/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md": {
+    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md": {
         "url": "", 
-        "path": "/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md", 
-        "_title": "32-ant-design-pro", 
-        "title": "32-ant-design-pro\n/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md", 
+        "_title": "exgraphicviewer", 
+        "title": "exgraphicviewer\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicviewer.md"
     }, 
     "/previous/zero-ui/3-ant-development/35-ant-l7.md": {
         "url": "", 
@@ -1295,17 +1277,23 @@
         "_title": "35-ant-l7", 
         "title": "35-ant-l7\n/previous/zero-ui/3-ant-development/35-ant-l7.md"
     }, 
+    "/previous/zero-up/main.md": {
+        "url": "", 
+        "path": "/previous/zero-up/main.md", 
+        "_title": "main", 
+        "title": "main\n/previous/zero-up/main.md"
+    }, 
     "/previous/specification/3-specification-origin-x/spo-016-quan-ju-fu-gai-xing-bian-liang.md": {
         "url": "", 
         "path": "/previous/specification/3-specification-origin-x/spo-016-quan-ju-fu-gai-xing-bian-liang.md", 
         "_title": "spo-016-quan-ju-fu-gai-xing-bian-liang", 
         "title": "spo-016-quan-ju-fu-gai-xing-bian-liang\n/previous/specification/3-specification-origin-x/spo-016-quan-ju-fu-gai-xing-bian-liang.md"
     }, 
-    "/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md": {
+    "/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md": {
         "url": "", 
-        "path": "/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md", 
-        "_title": "1-zero-uiji-ben-jiao-cheng", 
-        "title": "1-zero-uiji-ben-jiao-cheng\n/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md"
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md", 
+        "_title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi", 
+        "title": "zbr-003-vertxzhong-de-ji-qun-guan-li-qi\n/previous/zero-up/4.vertx.advanced/zbr-003-vertxzhong-de-ji-qun-guan-li-qi.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian.md": {
         "url": "", 
@@ -1313,23 +1301,29 @@
         "_title": "ji-ben-zu-jian", 
         "title": "ji-ben-zu-jian\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian.md"
     }, 
+    "/previous/utility-x/main.md": {
+        "url": "", 
+        "path": "/previous/utility-x/main.md", 
+        "_title": "main", 
+        "title": "main\n/previous/utility-x/main.md"
+    }, 
     "/_book/zero-up/4.vertx.advanced/zbr-016-wang-luo-fu-wu-qi-zhong-de-sni.md": {
         "url": "", 
         "path": "/_book/zero-up/4.vertx.advanced/zbr-016-wang-luo-fu-wu-qi-zhong-de-sni.md", 
         "_title": "zbr-016-wang-luo-fu-wu-qi-zhong-de-sni", 
         "title": "zbr-016-wang-luo-fu-wu-qi-zhong-de-sni\n/_book/zero-up/4.vertx.advanced/zbr-016-wang-luo-fu-wu-qi-zhong-de-sni.md"
     }, 
-    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md": {
+    "/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md": {
         "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md", 
-        "_title": "exgraphicmaster", 
-        "title": "exgraphicmaster\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md"
+        "path": "/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md", 
+        "_title": "32-ant-design-pro", 
+        "title": "32-ant-design-pro\n/_book/zero-ui/3-antquan-jia-tong/32-ant-design-pro.md"
     }, 
-    "/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md": {
         "url": "", 
-        "path": "/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md", 
-        "_title": "spo-013-actcao-zuo-zu-jian", 
-        "title": "spo-013-actcao-zuo-zu-jian\n/previous/specification/3-specification-origin-x/spo-013-actcao-zuo-zu-jian.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md", 
+        "_title": "zbr-006-reactormo-shi", 
+        "title": "zbr-006-reactormo-shi\n/_book/zero-up/4.vertx.advanced/zbr-006-reactormo-shi.md"
     }, 
     "/previous/zero-ui/5-zero-ui-attribute-analyzer/zai-002-aizhi-neng-shu-xing-jie-xi-qi.md": {
         "url": "", 
@@ -1337,11 +1331,11 @@
         "_title": "zai-002-aizhi-neng-shu-xing-jie-xi-qi", 
         "title": "zai-002-aizhi-neng-shu-xing-jie-xi-qi\n/previous/zero-ui/5-zero-ui-attribute-analyzer/zai-002-aizhi-neng-shu-xing-jie-xi-qi.md"
     }, 
-    "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md": {
+    "/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md": {
         "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md", 
-        "_title": "loadingalert", 
-        "title": "loadingalert\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/loadingalert.md"
+        "path": "/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md", 
+        "_title": "uxi-001-uxajaxxxx", 
+        "title": "uxi-001-uxajaxxxx\n/previous/utility-x/3-zero-ui-utility-x/uxi-001-uxajaxxxx.md"
     }, 
     "/previous/zero-up/1-zeroji-ben-jiao-cheng.md": {
         "url": "", 
@@ -1349,11 +1343,11 @@
         "_title": "1-zeroji-ben-jiao-cheng", 
         "title": "1-zeroji-ben-jiao-cheng\n/previous/zero-up/1-zeroji-ben-jiao-cheng.md"
     }, 
-    "/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md": {
         "url": "", 
-        "path": "/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md", 
-        "_title": "ce-002-an-li-ff1a-huo-dong-an-li-fen-xi", 
-        "title": "ce-002-an-li-ff1a-huo-dong-an-li-fen-xi\n/_book/uniform-documentation/cdake-cheng-bi-ji/excel/ce-002-an-li-ff1a-huo-dong-an-li-fen-xi.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md", 
+        "_title": "zbr-004-actormo-xing", 
+        "title": "zbr-004-actormo-xing\n/_book/zero-up/4.vertx.advanced/zbr-004-actormo-xing.md"
     }, 
     "/_book/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md": {
         "url": "", 
@@ -1361,11 +1355,11 @@
         "_title": "zro002-di-yi-ge-zero", 
         "title": "zro002-di-yi-ge-zero\n/_book/zero-up/1.zero.guide/zro002-di-yi-ge-zero.md"
     }, 
-    "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md": {
+    "/environment/environment-dependency/001.neo4j.md": {
         "url": "", 
-        "path": "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md", 
-        "_title": "spc-000-ye-wu-zhu-yu-gui-fan", 
-        "title": "spc-000-ye-wu-zhu-yu-gui-fan\n/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md"
+        "path": "/environment/environment-dependency/001.neo4j.md", 
+        "_title": "001.neo4j", 
+        "title": "001.neo4j\n/environment/environment-dependency/001.neo4j.md"
     }, 
     "/origin-x-engine/2.ox-modeling/om-001-database/om-001-2-oracle.md": {
         "url": "", 
@@ -1373,11 +1367,11 @@
         "_title": "om-001-2-oracle", 
         "title": "om-001-2-oracle\n/origin-x-engine/2.ox-modeling/om-001-database/om-001-2-oracle.md"
     }, 
-    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md": {
         "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md", 
-        "_title": "exgraphicspider", 
-        "title": "exgraphicspider\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicspider.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md", 
+        "_title": "zbr-011-tcpzhong-de-keepalive-ji-zhi", 
+        "title": "zbr-011-tcpzhong-de-keepalive-ji-zhi\n/_book/zero-up/4.vertx.advanced/zbr-011-tcpzhong-de-keepalive-ji-zhi.md"
     }, 
     "/origin-x-engine/4.ox-authorization/os-002-rbac.md": {
         "url": "", 
@@ -1391,11 +1385,11 @@
         "_title": "003.spring-boot.testing", 
         "title": "003.spring-boot.testing\n/uniform-documentation/open-source/003.spring-boot.testing.md"
     }, 
-    "/origin-x-engine/1-ox-delivery.md": {
+    "/execution/k8s/001.concept.md": {
         "url": "", 
-        "path": "/origin-x-engine/1-ox-delivery.md", 
-        "_title": "1-ox-delivery", 
-        "title": "1-ox-delivery\n/origin-x-engine/1-ox-delivery.md"
+        "path": "/execution/k8s/001.concept.md", 
+        "_title": "001.concept", 
+        "title": "001.concept\n/execution/k8s/001.concept.md"
     }, 
     "/origin-x-engine/2.ox-modeling/om-002-form-field.md": {
         "url": "", 
@@ -1445,17 +1439,17 @@
         "_title": "main", 
         "title": "main\n/execution/main.md"
     }, 
-    "/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md": {
+    "/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md": {
         "url": "", 
-        "path": "/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md", 
-        "_title": "ox-012-step4-testing", 
-        "title": "ox-012-step4-testing\n/origin-x-engine/1.ox-delivery-guide/ox-012-step4-testing.md"
+        "path": "/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md", 
+        "_title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class", 
+        "title": "zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class\n/_book/zero-up/4.vertx.advanced/zbr-009-ipv6zhong-de-tong-xin-liang-lei-traffic-class.md"
     }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md": {
+    "/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md": {
         "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md", 
-        "_title": "zbr-010-tcpzhongdenagle-suan-fa", 
-        "title": "zbr-010-tcpzhongdenagle-suan-fa\n/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md"
+        "path": "/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md", 
+        "_title": "oi-003-zi-yuan-qing-qiu-chu-shi-hua", 
+        "title": "oi-003-zi-yuan-qing-qiu-chu-shi-hua\n/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md"
     }, 
     "/previous/specification/index/3-origin-x-specification.md": {
         "url": "", 
@@ -1469,11 +1463,11 @@
         "_title": "ox-013-channel-standard", 
         "title": "ox-013-channel-standard\n/origin-x-engine/1.ox-delivery-guide/ox-013-channel-standard.md"
     }, 
-    "/environment/environment-zero/004.zero-ai.md": {
+    "/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md": {
         "url": "", 
-        "path": "/environment/environment-zero/004.zero-ai.md", 
-        "_title": "004.zero-ai", 
-        "title": "004.zero-ai\n/environment/environment-zero/004.zero-ai.md"
+        "path": "/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md", 
+        "_title": "zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi", 
+        "title": "zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi\n/previous/zero-ui/1-zero-ui-guide/zui-005-cha-xun-can-shu-criteria-pei-zhi-jie-xi.md"
     }, 
     "/_book/zero-ui/6-zero-uizu-jian-shuo-ming/61-zero-ui-biao-zhun-zu-jian.md": {
         "url": "", 
@@ -1511,11 +1505,17 @@
         "_title": "zua-003-renderzhi-qian-de-ajax-kai-fa", 
         "title": "zua-003-renderzhi-qian-de-ajax-kai-fa\n/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md"
     }, 
-    "/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md": {
+    "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md": {
         "url": "", 
-        "path": "/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md", 
-        "_title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi", 
-        "title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi\n/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md"
+        "path": "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md", 
+        "_title": "exgraphicmaster", 
+        "title": "exgraphicmaster\n/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md"
+    }, 
+    "/previous/utility-x/4-zerozhong-de-ut.md": {
+        "url": "", 
+        "path": "/previous/utility-x/4-zerozhong-de-ut.md", 
+        "_title": "4-zerozhong-de-ut", 
+        "title": "4-zerozhong-de-ut\n/previous/utility-x/4-zerozhong-de-ut.md"
     }, 
     "/_book/zero-up/4.vertx.advanced/zbr-013-sslzhong-de-pfx-zheng-shu.md": {
         "url": "", 
@@ -1529,11 +1529,17 @@
         "_title": "002.jsr330", 
         "title": "002.jsr330\n/uniform-documentation/computer-language/002.jsr330.md"
     }, 
-    "/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md": {
+    "/uniform-documentation/open-source/004.oval.md": {
         "url": "", 
-        "path": "/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md", 
-        "_title": "spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming", 
-        "title": "spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming\n/previous/specification/3-specification-origin-x/spo-017-wu-zhong-bu-tong-mo-shi-de-xuichildren-shuo-ming.md"
+        "path": "/uniform-documentation/open-source/004.oval.md", 
+        "_title": "004.oval", 
+        "title": "004.oval\n/uniform-documentation/open-source/004.oval.md"
+    }, 
+    "/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md": {
+        "url": "", 
+        "path": "/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md", 
+        "_title": "zbr-010-tcpzhongdenagle-suan-fa", 
+        "title": "zbr-010-tcpzhongdenagle-suan-fa\n/previous/zero-up/4.vertx.advanced/zbr-010-tcpzhongdenagle-suan-fa.md"
     }, 
     "/previous/zero-up/5-300a-zhu-lu-ji-300b-fu-lu.md": {
         "url": "", 
@@ -1553,23 +1559,23 @@
         "_title": "zro003-restfulzhong-de-path-he-method", 
         "title": "zro003-restfulzhong-de-path-he-method\n/previous/zero-up/1.zero.guide/zro003-restfulzhong-de-path-he-method.md"
     }, 
-    "/previous/zero-up/main.md": {
+    "/uniform-documentation/open-source/007.jasmine.md": {
         "url": "", 
-        "path": "/previous/zero-up/main.md", 
+        "path": "/uniform-documentation/open-source/007.jasmine.md", 
+        "_title": "007.jasmine", 
+        "title": "007.jasmine\n/uniform-documentation/open-source/007.jasmine.md"
+    }, 
+    "/_book/utility-x/main.md": {
+        "url": "", 
+        "path": "/_book/utility-x/main.md", 
         "_title": "main", 
-        "title": "main\n/previous/zero-up/main.md"
+        "title": "main\n/_book/utility-x/main.md"
     }, 
-    "/previous/utility-x/1-she-ji-li-nian.md": {
+    "/environment/environment-dependency/004.etcd.md": {
         "url": "", 
-        "path": "/previous/utility-x/1-she-ji-li-nian.md", 
-        "_title": "1-she-ji-li-nian", 
-        "title": "1-she-ji-li-nian\n/previous/utility-x/1-she-ji-li-nian.md"
-    }, 
-    "/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md": {
-        "url": "", 
-        "path": "/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md", 
-        "_title": "ox-007-delivery-options", 
-        "title": "ox-007-delivery-options\n/origin-x-engine/1.ox-delivery-guide/ox-007-delivery-options.md"
+        "path": "/environment/environment-dependency/004.etcd.md", 
+        "_title": "004.etcd", 
+        "title": "004.etcd\n/environment/environment-dependency/004.etcd.md"
     }, 
     "/uniform-documentation/open-source/000.index.md": {
         "url": "", 
@@ -1577,28 +1583,28 @@
         "_title": "000.index", 
         "title": "000.index\n/uniform-documentation/open-source/000.index.md"
     }, 
-    "/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md": {
+    "/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md": {
         "url": "", 
-        "path": "/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md", 
-        "_title": "zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di", 
-        "title": "zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di\n/previous/zero-up/4.vertx.advanced/zbr-001-javayu-yan-zhong-de-an-zhi-chuan-di.md"
-    }, 
-    "/uniform-documentation/open-source/008.dockerfile.md": {
-        "url": "", 
-        "path": "/uniform-documentation/open-source/008.dockerfile.md", 
-        "_title": "008.dockerfile", 
-        "title": "008.dockerfile\n/uniform-documentation/open-source/008.dockerfile.md"
-    }, 
-    "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md": {
-        "url": "", 
-        "path": "/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md", 
-        "_title": "dialog", 
-        "title": "dialog\n/previous/zero-ui/6-zero-ui-component/ji-ben-zu-jian/dialog.md"
+        "path": "/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md", 
+        "_title": "1-zero-uiji-ben-jiao-cheng", 
+        "title": "1-zero-uiji-ben-jiao-cheng\n/previous/zero-ui/1-zero-uiji-ben-jiao-cheng.md"
     }, 
     "/previous/zero-ui/3-ant-development/34-ant-g6.md": {
         "url": "", 
         "path": "/previous/zero-ui/3-ant-development/34-ant-g6.md", 
         "_title": "34-ant-g6", 
         "title": "34-ant-g6\n/previous/zero-ui/3-ant-development/34-ant-g6.md"
+    }, 
+    "/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md": {
+        "url": "", 
+        "path": "/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md", 
+        "_title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi", 
+        "title": "zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi\n/_book/zero-ui/2-react-tutorial/zrt-001-shen-du-jie-xi-react-de-sheng-ming-zhou-qi.md"
+    }, 
+    "/uniform-documentation/open-source/008.dockerfile.md": {
+        "url": "", 
+        "path": "/uniform-documentation/open-source/008.dockerfile.md", 
+        "_title": "008.dockerfile", 
+        "title": "008.dockerfile\n/uniform-documentation/open-source/008.dockerfile.md"
     }
 }
