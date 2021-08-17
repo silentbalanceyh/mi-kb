@@ -1,0 +1,30 @@
+# K8S基础环境
+
+## 1. 软件和硬件
+
+|软硬件|最低|推荐|
+|---|:---|:---|
+|主机资源|集群最好 1 ~ 5 个节点，要求：<br/>* Master：1-CPU 和 2GB内存<br/>* Node: 1-CPU 和 1GB内存。<br/>随着集群规模加大，应增加主机配置，参考官方建议。|Master：4-CPU 和 16GB内存<br/>Node工具运行容器数量配置。|
+|Linux操作系统|各种Linux发行版，Kernel > 3.10。|CentOS 7.8|
+|etcd|v3 版本以及以上。|v3|
+|Docker|推荐使用19.03或以上。|19.03|
+
+## 2. 防火墙端口
+
+|组件|默认端口|
+|:---|:---|
+|API Server|8080（HTTP非安全端口）<br/>6443（HTTPS安全端口）|
+|Controller Manager|10252|
+|Scheduler|10251|
+|kubelet|10250<br/>10255（只读端口）|
+|etcd|2379（客户端访问）<br/>2380（集群内部节点访问）|
+|集群DNS服务|53（UDP）<br/>53（TCP）|
+
+> 其他防火墙端口视情况而定，在安全内网环境中，也可以直接关闭防火墙。
+
+```shell
+systemctl disable firewalld
+systemctl stop firewalld
+```
+
+&ensp;&ensp;&ensp;&ensp;另外，在主机上禁用SELinux（修改/etc/sysconfig/selinux），设置`SELINUX=disabled`。

@@ -2,8 +2,9 @@
 
 ## K8S篇
 
+> [K8S基础环境](/execution/k8s-config.md)
+
 * [1.基本概念](/execution/k8s/001.concept.md)
-* [2.配置参考](/execution/k8s/002.configuration.md)
 
 ## Istio篇
 

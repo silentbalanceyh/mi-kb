@@ -12,6 +12,7 @@
     * [1.7. HA：Etcd集群](/environment/environment-dependency/007.etcd-ha.md)
     * [1.8. HA：K8S集群](/environment/environment-dependency/008.k8s.md)
     * [1.9. K8S认证机制](/environment/environment-dependency/009.k8s-token.md)
+    * [1.10. K8S：kubeadm配置](/environment/environment-dependency/010.k8s-kubeadm.md)
 * [2.Zero环境](environment/environment-zero/000.index.md)
     * [2.1. ox-ui环境搭建](/environment/environment-zero/001.ox-ui.md)
     * [2.2. 仓库初始化](/environment/environment-zero/002.initialize.md)
@@ -94,5 +95,4 @@
 
 * [K8S](/execution/k8s/000.index.md)
    * [1.基本概念](/execution/k8s/001.concept.md)
-   * [2.配置参考](/execution/k8s/002.configuration.md)
 * [Istio](/execution/istio/000.index.md)
