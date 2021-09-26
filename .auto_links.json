@@ -143,6 +143,12 @@
         "_title": "README", 
         "title": "README\n/_book/environment/6-zero-ai/README.md"
     }, 
+    "/previous/utility-x/3-zero-uizhong-de-ux.md": {
+        "url": "", 
+        "path": "/previous/utility-x/3-zero-uizhong-de-ux.md", 
+        "_title": "3-zero-uizhong-de-ux", 
+        "title": "3-zero-uizhong-de-ux\n/previous/utility-x/3-zero-uizhong-de-ux.md"
+    }, 
     "/_book/zero-up/4.vertx.advanced/zbr-012-alpnxie-yi.md": {
         "url": "", 
         "path": "/_book/zero-up/4.vertx.advanced/zbr-012-alpnxie-yi.md", 
@@ -184,12 +190,6 @@
         "path": "/previous/zero-up/1.zero.guide/zro001-ling-zhi-qi-yuan.md", 
         "_title": "zro001-ling-zhi-qi-yuan", 
         "title": "zro001-ling-zhi-qi-yuan\n/previous/zero-up/1.zero.guide/zro001-ling-zhi-qi-yuan.md"
-    }, 
-    "/execution/k8s/002.cri.md": {
-        "url": "", 
-        "path": "/execution/k8s/002.cri.md", 
-        "_title": "002.cri", 
-        "title": "002.cri\n/execution/k8s/002.cri.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exformlink.md": {
         "url": "", 
@@ -353,6 +353,12 @@
         "_title": "3-ox-interface", 
         "title": "3-ox-interface\n/origin-x-engine/3-ox-interface.md"
     }, 
+    "/environment/environment-dependency/008.k8s.md": {
+        "url": "", 
+        "path": "/environment/environment-dependency/008.k8s.md", 
+        "_title": "008.k8s", 
+        "title": "008.k8s\n/environment/environment-dependency/008.k8s.md"
+    }, 
     "/uniform-documentation/software-concept/000.index.md": {
         "url": "", 
         "path": "/uniform-documentation/software-concept/000.index.md", 
@@ -485,11 +491,11 @@
         "_title": "2-ox-modeling", 
         "title": "2-ox-modeling\n/origin-x-engine/2-ox-modeling.md"
     }, 
-    "/previous/utility-x/3-zero-uizhong-de-ux.md": {
+    "/execution/k8s-config.md": {
         "url": "", 
-        "path": "/previous/utility-x/3-zero-uizhong-de-ux.md", 
-        "_title": "3-zero-uizhong-de-ux", 
-        "title": "3-zero-uizhong-de-ux\n/previous/utility-x/3-zero-uizhong-de-ux.md"
+        "path": "/execution/k8s-config.md", 
+        "_title": "k8s-config", 
+        "title": "k8s-config\n/execution/k8s-config.md"
     }, 
     "/environment/environment-thirdpart/002.karma-es-webpack.md": {
         "url": "", 
@@ -815,12 +821,6 @@
         "_title": "ox-009-channel-task", 
         "title": "ox-009-channel-task\n/origin-x-engine/1.ox-delivery-guide/ox-009-channel-task.md"
     }, 
-    "/execution/k8s-config.md": {
-        "url": "", 
-        "path": "/execution/k8s-config.md", 
-        "_title": "k8s-config", 
-        "title": "k8s-config\n/execution/k8s-config.md"
-    }, 
     "/previous/specification/3-specification-origin-x/spo-002-jie-mian-pei-zhi-quan-json-shi-li.md": {
         "url": "", 
         "path": "/previous/specification/3-specification-origin-x/spo-002-jie-mian-pei-zhi-quan-json-shi-li.md", 
@@ -862,6 +862,12 @@
         "path": "/environment/environment-thirdpart/000.index.md", 
         "_title": "000.index", 
         "title": "000.index\n/environment/environment-thirdpart/000.index.md"
+    }, 
+    "/execution/cda/000.index.md": {
+        "url": "", 
+        "path": "/execution/cda/000.index.md", 
+        "_title": "000.index", 
+        "title": "000.index\n/execution/cda/000.index.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exentry.md": {
         "url": "", 
@@ -1031,12 +1037,6 @@
         "_title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi", 
         "title": "spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi\n/previous/specification/3-specification-origin-x/spo-008-guan-yu-ajax-zhong-de-lazy-mo-shi.md"
     }, 
-    "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md": {
-        "url": "", 
-        "path": "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md", 
-        "_title": "spc-000-ye-wu-zhu-yu-gui-fan", 
-        "title": "spc-000-ye-wu-zhu-yu-gui-fan\n/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md"
-    }, 
     "/environment/environment-zero/004.zero-ai.md": {
         "url": "", 
         "path": "/environment/environment-zero/004.zero-ai.md", 
@@ -1055,11 +1055,11 @@
         "_title": "spo-009-assistfu-zhu-shu-ju-ajax", 
         "title": "spo-009-assistfu-zhu-shu-ju-ajax\n/previous/specification/3-specification-origin-x/spo-009-assistfu-zhu-shu-ju-ajax.md"
     }, 
-    "/execution/k8s/002.configuration.md": {
+    "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md": {
         "url": "", 
-        "path": "/execution/k8s/002.configuration.md", 
-        "_title": "002.configuration", 
-        "title": "002.configuration\n/execution/k8s/002.configuration.md"
+        "path": "/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md", 
+        "_title": "spc-000-ye-wu-zhu-yu-gui-fan", 
+        "title": "spc-000-ye-wu-zhu-yu-gui-fan\n/previous/specification/business-uniform/spc-000-ye-wu-zhu-yu-gui-fan.md"
     }, 
     "/environment/environment-dependency/005.maven.md": {
         "url": "", 
@@ -1181,6 +1181,12 @@
         "_title": "zai-003-kvbiao-da-shi-chu-li", 
         "title": "zai-003-kvbiao-da-shi-chu-li\n/previous/zero-ui/5-zero-ui-attribute-analyzer/zai-003-kvbiao-da-shi-chu-li.md"
     }, 
+    "/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md": {
+        "url": "", 
+        "path": "/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md", 
+        "_title": "zua-003-renderzhi-qian-de-ajax-kai-fa", 
+        "title": "zua-003-renderzhi-qian-de-ajax-kai-fa\n/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md"
+    }, 
     "/uniform-documentation/specification/000.index.md": {
         "url": "", 
         "path": "/uniform-documentation/specification/000.index.md", 
@@ -1211,12 +1217,6 @@
         "_title": "1-zeroji-ben-jiao-cheng", 
         "title": "1-zeroji-ben-jiao-cheng\n/_book/zero-up/1-zeroji-ben-jiao-cheng.md"
     }, 
-    "/execution/k8s/002.kubeadm.md": {
-        "url": "", 
-        "path": "/execution/k8s/002.kubeadm.md", 
-        "_title": "002.kubeadm", 
-        "title": "002.kubeadm\n/execution/k8s/002.kubeadm.md"
-    }, 
     "/environment/environment-dependency/003.es.md": {
         "url": "", 
         "path": "/environment/environment-dependency/003.es.md", 
@@ -1246,6 +1246,12 @@
         "path": "/uniform-documentation/specification/001.ubl.md", 
         "_title": "001.ubl", 
         "title": "001.ubl\n/uniform-documentation/specification/001.ubl.md"
+    }, 
+    "/environment/environment-dependency/007.etcd-ha.md": {
+        "url": "", 
+        "path": "/environment/environment-dependency/007.etcd-ha.md", 
+        "_title": "007.etcd-ha", 
+        "title": "007.etcd-ha\n/environment/environment-dependency/007.etcd-ha.md"
     }, 
     "/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md": {
         "url": "", 
@@ -1412,8 +1418,8 @@
     "/execution/k8s/001.concept.md": {
         "url": "", 
         "path": "/execution/k8s/001.concept.md", 
-        "_title": "001.concept", 
-        "title": "001.concept\n/execution/k8s/001.concept.md"
+        "_title": "01.K8S\u57fa\u672c\u6982\u5ff5", 
+        "title": "01.K8S\u57fa\u672c\u6982\u5ff5\n/execution/k8s/001.concept.md"
     }, 
     "/origin-x-engine/2.ox-modeling/om-002-form-field.md": {
         "url": "", 
@@ -1523,11 +1529,11 @@
         "_title": "zui-004-zi-yuan-wen-jian", 
         "title": "zui-004-zi-yuan-wen-jian\n/previous/zero-ui/1-zero-ui-guide/zui-004-zi-yuan-wen-jian.md"
     }, 
-    "/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md": {
+    "/environment/environment-dependency/009.k8s-token.md": {
         "url": "", 
-        "path": "/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md", 
-        "_title": "zua-003-renderzhi-qian-de-ajax-kai-fa", 
-        "title": "zua-003-renderzhi-qian-de-ajax-kai-fa\n/previous/zero-ui/4-zero-ui-event/zua-003-renderzhi-qian-de-ajax-kai-fa.md"
+        "path": "/environment/environment-dependency/009.k8s-token.md", 
+        "_title": "009.k8s-token", 
+        "title": "009.k8s-token\n/environment/environment-dependency/009.k8s-token.md"
     }, 
     "/previous/zero-ui/6-zero-ui-component/kuo-zhan-zu-jian/exgraphicmaster.md": {
         "url": "", 
