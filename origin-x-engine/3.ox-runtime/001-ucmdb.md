@@ -54,4 +54,4 @@ java --patch-module=jdk.unsupported=target/conf/ucmdb/ucmdb-sdk-fix.jar \
 
 ## 3. 运行成功
 
-![None](/assets/images/ox/2021-10-12-22-50-16.png)
+![None](/assets/images/ox/2021-10-12-23-22-01.png)
