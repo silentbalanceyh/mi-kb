@@ -94,7 +94,7 @@ Origin X名字来源于伊苏起源，那是一个让你去追溯真理和源头
 * [2.认证授权接口](/origin-x-engine/3.ox-interface/oi-002-ren-zheng-shou-quan.md)
 * [3.资源请求接口](/origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md)
 
-#### 1. 实施开发
+#### 1. 实施开发（旧版）
 
 * [1.项目结构说明](/origin-x-engine/1.ox-delivery-guide/ox-001-structure-project.md)
 * [2.环境搭建](/origin-x-engine/1.ox-delivery-guide/ox-002-environment-backend.md)
@@ -123,7 +123,11 @@ Origin X名字来源于伊苏起源，那是一个让你去追溯真理和源头
 * [19.业务层 Mapping](/origin-x-engine/3.ox-interface/oi-004-ye-wu-ceng-mapping-pei-zhi-shuo-ming.md)
 * [20.业务层 Dict](/origin-x-engine/3.ox-interface/oi-005-ye-wu-ceng-dict.md)
 * [21.业务层 Identity](/origin-x-engine/3.ox-interface/oi-006-ye-wu-ceng-identity.md)
-* [22.升级运行要点](/origin-x-engine/3.ox-runtime/001-ucmdb.md)
+
+#### 2. 新版文档（实战为主）
+
+* [1.升级运行要点](/origin-x-engine/5.ox-document/001-ucmdb.md)
+* [2.新测试框架的使用](/origin-x-engine/5.ox-document/002-unit-testing.md)
 
 ### 4.3. 通用知识库
 
