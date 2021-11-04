@@ -65,4 +65,4 @@
 
 * [Camunda](/note/camunda/00.index.md)
     * [1.结构总览](/note/camunda/01.arch.md)
-    * [2.规范详解](/note/camunda/02.standards.md)
+    * [2.BPMN 2.0详解](/note/camunda/02.standards.md)

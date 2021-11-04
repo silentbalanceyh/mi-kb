@@ -133,5 +133,5 @@ Origin X名字来源于伊苏起源，那是一个让你去追溯真理和源头
 
 ### 1. Camunda
 
-* [1.总览](/note/camunda/01.arch.md)
-* [2.规范详解](/note/camunda/02.standards.md)
+* [1.结构总览](/note/camunda/01.arch.md)
+* [2.BPMN 2.0详解](/note/camunda/02.standards.md)
