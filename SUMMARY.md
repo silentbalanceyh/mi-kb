@@ -61,3 +61,8 @@
     * [2. 认证授权接口](origin-x-engine/3.ox-interface/oi-002-ren-zheng-shou-quan.md)
     * [3. 资源请求接口](origin-x-engine/3.ox-interface/oi-003-zi-yuan-qing-qiu-chu-shi-hua.md)
 
+## 「叁」笔记
+
+* [Camunda](/note/camunda/00.index.md)
+    * [结构总览](/note/camunda/01.arch.md)
+    * [规范详解](/note/camunda/02.standards.md)
